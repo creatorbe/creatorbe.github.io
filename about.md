@@ -7,19 +7,17 @@ permalink: /about/
 Me
 ===
 
-assalamualaikum :blush:
+assalamualaikum
 
 codename : `creatorb` [spell: creatorbe]
 
 Hi... yeah you there, welcome on my string!
 
-Hmm ya maybe not too much difference me and an another species, Programmer, geek. Love computers, love coding and love everything an unit about them. I spend my day in front of a computer screen as I am reading, coding, debugging, or discussing coding practices and methods with other programmers. When I am not on there, I am reading islamic article, youtube, and another muslim source, or maybe had present in the mosque. Actually for all it really cool if you know something as deep and clear. I am deeply impressed when I see smart and beautiful code that does something I know is hard to accomplish. These are moments when I feel that we have only touched the surface of what we can do with computers, and I know that there is a simple solution to the current programming problem I am facing, I just need to get my head around it. With my spare time, I play around with new stuff, trying out new ideas or writing a patch or a bug report to some open source application I use, sometimes play around with little hack rogue style, scanning open port of public ip, read and capture an transmitted packet data, login an public ip camera, etc, yep its bad to talk more about it and you should not be emulated, :neckbeard: zuahahaha. Most of my day has something to do with computers, until, of course, actually all of that will make someone else think i'm strange man, psyco in another side or an alien :alien: hahaha then so forget it all, i still normal people :sunglasses: sometime tired and sometime hungry.
+Hmm ya maybe not too much difference me and an another programmer species :v Geek, Love computers, love coding and love everything an unit about them. I spend my day in front of a computer screen as I am reading, coding, debugging, or discussing coding practices and methods with other programmers. When I am not on there, I am reading islamic article, youtube, and another muslim source, or maybe had present in the mosque. Actually for all it really cool if you know something as deep and clear. I am deeply impressed when I see smart and beautiful code that does something I know is hard to accomplish. These are moments when I feel that we have only touched the surface of what we can do with computers, and I know that there is a simple solution to the current programming problem I am facing, I just need to get my head around it. With my spare time, I play around with new stuff, trying out new ideas or writing a patch or a bug report to some open source application I use, sometimes play around with little hack rogue style, scanning open port of public ip, read and capture an transmitted packet data, login an public ip camera, etc, yep its bad to talk more about it and you should not be emulated ;} zuahahaha. Most of my day has something to do with computers, until, of course, actually all of that will make someone else think i'm strange man, psyco in another side or an alien o,O hahaha then so forget it all, i still normal people B) sometime tired and sometime hungry.
 
 My fullname's Hasan Basri, everyday Life as a Software Engineer exactly muslim programmer, i'm passionate on mobile development currently on android programming, i'm really enjoy explore everything what im interested as deep as possible. Yup thats me, for more details you can visit my cv on [creatorbe.github.io/cv.html](creatorbe.github.io/cv.html) and dont be shy to get in touch with me.
 
 Thanks for Allah, thanks for my parents, thanks for all crew of jasaprogrammer, pondokprogrammer, qodr, thanks for all my friends, thanks for you, and thanks for all wherever you are, hope allah always safe you and always bring the straight path come to you and hope allah make you a valuable person, man who have so many benefits to others... amin.
-
-<br/>
 
 Blogs
 =====
@@ -27,8 +25,6 @@ Blogs
 This is creatorb officials blogs and developed with love! All of tutorials on this blog written by my self and have been validated! inshaallah. Today 29 march, i starting this blog in other words i will focussing to stay here maybe will stop to type on another world, just on here.
 
 Actually i have so many blogs because i love explore everything what i'm interested but so sorry if i can't explain everything here. I know and absolutely understanding about `Knowledge is Free` it's my way too, but `Sometimes you don't need to tell everything you know`.
-
-<br/>
 
 License
 =======
@@ -48,8 +44,6 @@ If you plan to include our source code in site templates or to package it with o
 * Development Site
 
 For details, you can visit project file on my github repository [creatorbe.github.io](https://github.com/creatorbe/creatorbe.github.io)
-
-<br/>
 
 WARNING
 =======
