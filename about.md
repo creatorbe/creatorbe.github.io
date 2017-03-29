@@ -7,13 +7,13 @@ permalink: /about/
 Me
 ===
 
-assalamualaikum
+assalamualaikum :blush:
 
 codename : `creatorb` [spell: creatorbe]
 
 Hi... yeah you there, welcome on my string!
 
-Actually I really want to say I am a Programmer, geek. I love computers. I love coding and I love everything an unit about them. I spend my day in front of a computer screen as I am reading, coding, debugging, or discussing coding practices and methods with other programmers. When I am not on there, I am reading islamic article, youtube, and another muslim source, or present in the mosque. Actually for all it really cool if you know something as deep and clear. I am deeply impressed when I see smart and beautiful code that does something I know is hard to accomplish. These are moments when I feel that we have only touched the surface of what we can do with computers, and I know that there is a simple solution to the current programming problem I am facing, I just need to get my head around it. With my spare time, I play around with new stuff, trying out new ideas or writing a patch or a bug report to some open source application I use, sometimes play around with little hack, scanning open port of public ip, read and capture an transmitted packet data, login an public ip camera, etc, but actually that's bad and should not be emulated. Most of my day has something to do with computers, until, of course, actually all of that will make someone else think i'm not programmer but strange man, psyco in another side, hahaha so forget it all, i still normal people sometime tired and sometime hungry.
+Hmm ya maybe not too much difference me and an another species, Programmer, geek. Love computers, love coding and love everything an unit about them. I spend my day in front of a computer screen as I am reading, coding, debugging, or discussing coding practices and methods with other programmers. When I am not on there, I am reading islamic article, youtube, and another muslim source, or maybe had present in the mosque. Actually for all it really cool if you know something as deep and clear. I am deeply impressed when I see smart and beautiful code that does something I know is hard to accomplish. These are moments when I feel that we have only touched the surface of what we can do with computers, and I know that there is a simple solution to the current programming problem I am facing, I just need to get my head around it. With my spare time, I play around with new stuff, trying out new ideas or writing a patch or a bug report to some open source application I use, sometimes play around with little hack rogue style, scanning open port of public ip, read and capture an transmitted packet data, login an public ip camera, etc, yep its bad to talk more about it and you should not be emulated, :neckbeard: zuahahaha. Most of my day has something to do with computers, until, of course, actually all of that will make someone else think i'm strange man, psyco in another side or an alien :alien: hahaha then so forget it all, i still normal people :sunglasses: sometime tired and sometime hungry.
 
 My fullname's Hasan Basri, everyday Life as a Software Engineer exactly muslim programmer, i'm passionate on mobile development currently on android programming, i'm really enjoy explore everything what im interested as deep as possible. Yup thats me, for more details you can visit my cv on [creatorbe.github.io/cv.html](creatorbe.github.io/cv.html) and dont be shy to get in touch with me.
 
@@ -35,7 +35,7 @@ License
 
 * Content Site
 
-Mostly visitor/reader will read an indonesian post and page, you can use translator tool on my page for read in another language.
+Mostly visitor/reader will read an indonesian post and page, you can use any translator tool for read my page in another language, maybe for next i will plan to make translate button if you need and big hurry to use it.
 
 The source code and techniques, covered in our tutorials, are free for use in your personal and commercial projects. The text and images of our articles, however, are copyrighted and may not be used or copied without written permission (this includes translation of the articles in different languages).
 
@@ -57,3 +57,6 @@ WARNING
 Every string here had been typed by my finger, if one day you have been found text error, miss understanding or totally wrong, please hurry up let me know about that, because imma human like you too.
 
 Feel free to mail to `creatorb45@gmail.com` if you have any questions about what am i typed on here.
+
+<br/>
+

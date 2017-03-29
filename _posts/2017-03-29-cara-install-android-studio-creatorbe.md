@@ -39,7 +39,9 @@ kemudian klik dan dari sana anda bisa mengaktifkannya dengan menceklis di bagian
 
 ![Screenshot developer usb debugging](https://c1.staticflickr.com/3/2950/33567809302_f14820b949_z.jpg)
 
-Setelah mode usb debugging anda aktif kini anda bisa menghubungkan kabel data smartphone dengan PC/laptop seperti hal nya transfer data biasa dan setelah terhubung akan muncul pemberitahuan bahwa mode usb debugging sedang berlangsung, dalam kondisi ini anda bisa langsung menjalankan project android yang dibangun pada smartphone yang terhubung dengan PC/laptop yang nantinya akan muncul list device yang aktif dan pilih sesuai device mana yang hendak anda lakukan debugging.
+Setelah mode usb debugging anda aktif kini anda bisa menghubungkan kabel data smartphone dengan PC/laptop seperti hal nya transfer data biasa dan setelah terhubung akan muncul pemberitahuan bahwa mode usb debugging sedang berlangsung, dalam kondisi ini anda bisa langsung menjalankan project android yang dibangun pada smartphone yang terhubung dengan PC/laptop yang nantinya akan muncul list device yang aktif dan pilih sesuai device mana yang hendak anda lakukan debugging (sebelumnya dipastikan terlebih dahulu apabila belum terdeteksi maka bisa jadi belum terinstall driver untuk smartphone androidnya).
+
+Anda bisa mengunjungi [https://developer.android.com/training/basics/firstapp/running-app.html](https://developer.android.com/training/basics/firstapp/running-app.html) terkait detail untuk menjalankan program android yang telah dibangun di android studio.
 
 Jika anda tidak memiliki device/smartphone/platform android, Anda juga bisa memakai emulator untuk alternatif lain. Emulator semisal ekosistem android yang dibangun dalam lingkup desktop PC/laptop anda, jadi tidak perlu menggunakan device platform android nyata tapi device tiruan yang berjalan di sistem operasi anda.
 
@@ -50,6 +52,5 @@ Cara menginstall genymotion, pastikan anda telah menginstall virtual box karena 
 Silahkan install dan jalankan genymotion, kemudian pilih dan download salah satu versi os android yang akan anda pakai dalam membangun aplikasi android nantinya, lebih baik untuk versi saat ini API 15 keatas untuk mendukung lingkungan pengembangan yang baik dan setelah proses download selesai, anda bisa menjalankan dengan mengklik tombol play dan jika android emulator telah berjalan di sistem operasi anda dari sana anda juga bisa melakukan debugging menggunakan emulator seperti halnya melakukan debugging pada smartphone biasa.
 
 Disini saya ingin berbagi link download master file os android dalam bentuk ova, seperti yang sebelumnya anda download secara online melalui aplikasi genymotion sebenarnya juga bisa memasang os android di genymotion tanpa harus download melalui aplikasinya dengan menggunakan fasilitas import pada virtual box, dimana cara ini sangat efektif dan efisien dalam penggunaan pembelajaran masal dalam satu waktu, untuk lebih jelasnya anda bisa mengunjungi [https://github.com/CreatorB/Virtual/tree/master/genymotion](https://github.com/CreatorB/Virtual/tree/master/genymotion)
-
 
 Mungkin sampai disini dulu tulisan saya, mohon maaf apabila terdapat penjabaran yang terlalu global anda bisa merujuk pada beberapa website untuk detail terkait apa yang saya bahas diatas karena memang niatan saya pribadi untuk lebih menjabarkan proses instalasi secara umum dan berusaha untuk tidak melewatkan poin penting dari beberapa aspek yang dibahas, semoga bisa bermanfaat.
