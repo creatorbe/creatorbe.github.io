@@ -1,0 +1,17 @@
+[
+	{
+		"slug": "android-projects",
+		"name": "List of Android Projects",
+		"image": "placeholder.jpg",
+		"url": "http://creatorb.github.io",
+		"date": "Jan 2014",
+		"tags": ["Jekyll","HTML","CSS","JavaScript","API","Android","Java","XML","PHP"]
+	},
+	{
+		"name": "Coming Soon",
+		"image": "comingsoon.jpg",
+		"url": "#",
+		"date": "May 2014",
+		"tags": ["PHP"]
+	}
+]
