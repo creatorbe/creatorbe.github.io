@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Memahami Struktur Proyek Android Studio"
-date:   2017-03-30 06:23:35 +0700
+date:   2017-03-30 13:00:35 +0700
 categories: [programming,android]
 ---
 
