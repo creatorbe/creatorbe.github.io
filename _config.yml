@@ -15,6 +15,9 @@ collections:
   project:
     output: true
     permalink: /project/:path/
+  category:
+    output: true
+    permalink: /category/:path/
 
 social:
     - icon: fa-phone
