@@ -16,7 +16,7 @@ Mengapa beralih pada gradle? nah setelah pemahaman mengenai gradle sendiri telah
 Banyak sekali yang dapat kita lakukan dengan gradle salah satunya meminimalisir konfigurasi keterkaitan proyek android dengan modul modul lainnya karena mengacu pada satu konfigurasi default yang mudah di kustomisasi, depensi kini dapat berupa banyak bentuk baik modul,arr ataupun jar dalam sistem lokal maupun remote server, otomatisasi test dalam direktori proyek pada saat proses build (pembangunan), menjadikan gradle membuat signed apk sekaligus beberapa output dalam satu modul yang sama biasanya berguna untuk pembuatan aplikasi versi daerah tertentu atau device tertentu.
 
 ### Melihat ekosistem Gradle lebih dekat
-
+<br/>
 ![clear-explain-gradle-android-creatorbe](https://c1.staticflickr.com/3/2810/32919994483_3ff48ff590.jpg)
 
 Terdapat beberapa file yang bisa kita konfigurasikan di sana walaupun pada dasarnya tidak banyak yang akan kita sentuh pada saat development android, sebagian besar hanya lebih pada module app tempat kita memasang depensi yang kita butuh kan pada proyek android atau module project untuk konfigurasi lebih global mengenai remote server dari mana depensi berasal, tapi ada bagusnya kita memahami secara kesuluruhan fungsionalitasnya. **gradle-wrapper.properties** file ini memudahkan orang lain untuk membangun proyek, dimana berisi konfigurasi default dari gradle semisal versi gradle, url, path distribusi, dll terkait proyek yang sedang dibangun.
@@ -51,6 +51,6 @@ include ':app'
 sdk.dir=/Users/creatorbe/Library/Android/sdk
 ```
 
-Yap mungkin itu dulu, insyaallah beberapa poin poin penting telah saya sampaikan untuk lebih mengenal dan memahami apa itu gradle sudah tercapai, kini anda bisa bergabung dalam topik pembahasan gradle di forum forum untuk mengetahui lebih banyak lagi mengenai gradle. Berikut saya sertakan link rujukan untuk mengetahui pembahasan struktur gradle lebih rinci lagi di [https://code.tutsplus.com/tutorials/the-ins-and-outs-of-gradle--cms-22978](https://code.tutsplus.com/tutorials/the-ins-and-outs-of-gradle--cms-22978).
+Yap mungkin itu dulu, insyaallah beberapa poin poin penting telah saya sampaikan untuk lebih mengenal dan memahami apa itu gradle sudah tercapai, kini anda bisa bergabung dalam topik pembahasan gradle di forum forum untuk mengetahui lebih banyak lagi mengenai gradle. Berikut saya sertakan link rujukan untuk mengetahui pembahasan struktur gradle lebih rinci lagi di [https://code.tutsplus.com/tutorials/the-ins-and-outs-of-gradle--cms-22978](https://code.tutsplus.com/tutorials/the-ins-and-outs-of-gradle--cms-22978) dan bisa juga mengunjungi pembahasannya di site resmi android developer berikut [https://developer.android.com/studio/build/index.html](https://developer.android.com/studio/build/index.html)
 
 Semoga tulisan ini bermanfaat, amin.
