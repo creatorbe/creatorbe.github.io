@@ -154,6 +154,14 @@ div.col-sm-3 img.profile-avatar {
   border-bottom: 1px solid #f0f0f0;
 }
 
+.customline1{
+line-height: 0.7em;
+}
+
+.customline2{
+line-height: 1.0em;
+}
+
 .share-page {
   padding: 10px 10px 5px;
   border-top: 1px solid #f0f0f0;
