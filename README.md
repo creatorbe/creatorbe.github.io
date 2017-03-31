@@ -1,6 +1,6 @@
 ## :point_up::neckbeard: creatorbe links
 
-Hi folks... here's another links to get in touch with me, Hasan Basri aka creatorb `[creatorbe]` an indonesian muslim programmer. It isn't about what is popular topic and get earn, but it's about how he speak his minds and passions.
+Hi folks... here's another links to get in touch with me, Hasan Basri aka creatorb `[creatorbe]` an indonesian muslim programmer. Growth as a person who fixed problem that you don't know you have,in a way you don't understand. This blogs isn't about what is popular topic and get earn, but it's about how he speak his minds and passions.
 
 > This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
 > and the search posts using [Super Search](https://github.com/chinchang/super-search)
