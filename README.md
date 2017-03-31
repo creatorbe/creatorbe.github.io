@@ -1,9 +1,11 @@
-## creatorbe - creatorb | Muslim Programmer
+## :neckbeard: creatorbe links
+
+Hi folks... here's another links to get in touch with me, Hasan Basri aka creatorb `[creatorbe]` an indonesian muslim programmer. It isn't about what is popular topic and get earn, but it's about how he speak his minds and passions.
 
 > This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
 > and the search posts using [Super Search](https://github.com/chinchang/super-search)
 
-### Demo
+### Whatchout
 * [https://creatorbe.github.io](https://creatorbe.github.io)
 
 #### Features
@@ -20,7 +22,8 @@
 * Share on social media
 * Google analytics
 * HTML Minify _(Compress HTML)_ using [Jekyll Compress HTML](https://github.com/penibelst/jekyll-compress-html)
-* CV template
+* CV template [here you edit](https://github.com/creatorbe/creatorbe.github.io/blob/master/cv.html)
+* Signature [here you edit](https://github.com/creatorbe/creatorbe.github.io/blob/master/_includes/signature.html)
 
 ### Install & Configuration
 
@@ -76,8 +79,10 @@ all pretty happy about this. Here's simple ways to get started:
 5. Create new Pull Request
 
 
-### Master Repo
+Any questions or bug let me know about that by throw me an [issues](https://github.com/creatorbe/creatorbe.github.io/issues)
 
-You can contribute and directly throw something to master repo [Stack Problems](https://agusmakmun.github.io) above here you go ... 
+### Master Repository
 
-Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/agusmakmun.github.io/pulls)!
+You can also check how it started on repository [master](https://github.com/agusmakmun/agusmakmun.github.io)
+
+`./creatorb`
