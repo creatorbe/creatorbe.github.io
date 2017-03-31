@@ -54,3 +54,5 @@ Silahkan install dan jalankan genymotion, kemudian pilih dan download salah satu
 Disini saya ingin berbagi link download master file os android dalam bentuk ova, seperti yang sebelumnya anda download secara online melalui aplikasi genymotion sebenarnya juga bisa memasang os android di genymotion tanpa harus download melalui aplikasinya dengan menggunakan fasilitas import pada virtual box, dimana cara ini sangat efektif dan efisien dalam penggunaan pembelajaran masal dalam satu waktu, untuk lebih jelasnya anda bisa mengunjungi [https://github.com/CreatorB/Virtual/tree/master/genymotion](https://github.com/CreatorB/Virtual/tree/master/genymotion)
 
 Mungkin sampai disini dulu tulisan saya, mohon maaf apabila terdapat penjabaran yang terlalu global anda bisa merujuk pada beberapa website untuk detail terkait apa yang saya bahas diatas karena memang niatan saya pribadi untuk lebih menjabarkan proses instalasi secara umum dan berusaha untuk tidak melewatkan poin penting dari beberapa aspek yang dibahas, semoga bisa bermanfaat.
+
+./creatorb

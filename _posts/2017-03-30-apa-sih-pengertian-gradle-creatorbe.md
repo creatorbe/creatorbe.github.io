@@ -54,3 +54,5 @@ sdk.dir=/Users/creatorbe/Library/Android/sdk
 Yap mungkin itu dulu, insyaallah beberapa poin poin penting telah saya sampaikan untuk lebih mengenal dan memahami apa itu gradle sudah tercapai, kini anda bisa bergabung dalam topik pembahasan gradle di forum forum untuk mengetahui lebih banyak lagi mengenai gradle. Berikut saya sertakan link rujukan untuk mengetahui pembahasan struktur gradle lebih rinci lagi di [https://code.tutsplus.com/tutorials/the-ins-and-outs-of-gradle--cms-22978](https://code.tutsplus.com/tutorials/the-ins-and-outs-of-gradle--cms-22978) dan bisa juga mengunjungi pembahasannya di site resmi android developer berikut [https://developer.android.com/studio/build/index.html](https://developer.android.com/studio/build/index.html)
 
 Semoga tulisan ini bermanfaat, amin.
+
+./creatorb

@@ -66,6 +66,4 @@ terkait 2 build gradle tersebut sudah saya jelaskan di tampilan default android 
 
 Secara garis besar modul dan lingkup ruang kerja yang akan di gunakan dalam proses pengembangan proyek tidak lebih dari yang saya paparkan diatas, semoga penjelasan yang saya paparkan bisa lebih di pahami dan dimengerti mengenai fungsionalitas masing masing modul dalam proyek android itu sendiri, sehingga tidak perlu melakukan kesalahan edit file atau bingung hendak mengedit file yang mana. **manifest** tempat dimana kita mendeklarasikan semua aktivitas yang akan kita jalankan pada aplikasi android nantinya, disana juga terdapat beberapa opsi item, string and value untuk menentukan / mengkonfigurasi pengaturan global dalam aplikasi android. Untuk file kontroler lebih pada file yang berektensi .java yang terdapat pada folder sub **java/** di direktori src/ sedangkan untuk tampilan penyokong UI sendiri berdiri pada extensi .xml yang terdapat pada folder **res/layout** dimana semua file/komponen pendukung lainnya juga bisa dimanfaatkan untuk memenuhi sumber daya semisal icon di folder mipmap/ gambar di folder drawable/ dan source string,integer,dll bisa di dapatkan dan diletakkan pada folder values/ .
 
-
-
-
+./creatorb
