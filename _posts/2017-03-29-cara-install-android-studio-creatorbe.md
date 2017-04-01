@@ -3,6 +3,7 @@ layout: post
 title:  "Instalasi android studio"
 date:   2017-03-29 11:50:41 +0700
 categories: [programming,android]
+description: "Pembahasan mengenai tutorial cara instalasi android studio secara umum, bagaimana install android studio di windows, linux, maupun macintosh."
 ---
 
 Untuk memulai mengembangkan program berbasis android kita membutuhkan perangkat lunak / software yang akan kita gunakan untuk membangun aplikasi android itu sendiri, salah satu software yang akan kita gunakan adalah [Android Studio](https://developer.android.com/studio/intro/index.html?hl=id). Disini saya tidak akan membahas secara detail cara dan tutorial instalasi karena tentunya melihat ragam device/platform os yang kita gunakan mungkin saja berbeda (linux, windows, mac, dll), maka dari itu saya akan menjelaskan secara global alat dan pendukung apa saja yang anda butuhkan untuk membuat suatu aplikasi android dan anda bisa menerapkan nya secara kesuluruhan, anda bisa mengunjungi situs resmi pengembang android untuk tahap instalasi android studio di link berikut [https://developer.android.com/studio/install.html?hl=id](https://developer.android.com/studio/install.html?hl=id) dan silahkan googling untuk mendapatkan tambahkan rujukan sesuai platform os yang anda gunakan dan disini anda bisa meninggalkan komentar apabila terdapat masalah dalam instalasi atau hendak berdiskusi sesuai topik yang dipaparkan.

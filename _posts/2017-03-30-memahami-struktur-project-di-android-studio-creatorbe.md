@@ -3,6 +3,7 @@ layout: post
 title:  "Memahami Struktur Proyek Android Studio"
 date:   2017-03-30 13:00:35 +0700
 categories: [programming,android]
+description: "Belajar pemprograman android dasar, memahami struktur anatomi direktori project android diantara nya adalah model android dan perspektif project."
 ---
 
 Ketika membuat program/proyek baru maka kita akan disuguhkan dengan beberapa folder yang terkadang sebagai pemula bisa saja kaget dengan banyak nya folder folder yang bernama namun tak dikenal tersebut. Berikut mari kita berkenalan dengan beberapa folder yang terdapat pada unit proyek android studio. Salah satunya modul, modul memungkinkan kita untuk membagi proyek dalam beberapa unit, bisa memakai satu atau lebih modul sebagai depensi, library, dimana setiap modul bisa di buat, di debug, dan di uji seperti halnya proyek/program android pada umumnya. Langkah dalam pembuatan modul **File - New - New Module**.
