@@ -48,7 +48,7 @@ Dari keterangan singkat di atas, ada yang berpendapat bahwasanya di saat udara d
 - **Merupakan salah satu upaya untuk menyelisihi setan** setelah perintah meneladani, selanjutnya adalah menyelesihi, jadikan perbedaan antara kita dengan setan, jadikan perbedaan antara kita dengan orang non muslim, tentu perbedaan yang dimaksud dalam hal kebaikan dan sesuai sunnah nabi. *"Barang siapa yang menyerupai suatu kaum, maka dia termasuk dari kaum itu."* **(Shahih. Lihat: Irwa’ul Ghalil, no. 1269, 2384)** ya akhi banggalah  islam punya gaya hidup yang begitu mulia, tidak patut kiranya kita malah belajar gaya hidup mereka.
 
 
-### Hikmah Qoilulah (disadur dari beberapa salinan mengenai penelitian tidur siang)
+### Hikmah Qoilulah (disadur dari penelitian tidur siang)
 
 - **Mengembalikan Kesiagaan**. Salah satu cara untuk mengobati insomnia, Ketika merasa mengantuk otomatis tidak akan bisa melakukan pekerjaan terbaik dan solusi terbaik adalah istirahat. Sebuah studi NASA menemukan bahwa 40 menit tidur siang meningkatkan kesiagaan dengan 100%. Studi-studi lain telah menemukan bahwa 20 menit tidur siang lebih efektif daripada baik 200 mg kafein. Namun penelitian lain menunjukkan bahwa pilot yang diizinkan untuk tidur siang lebih baik daripada mereka yang tidak tidur siang, mereka juga membuat kesalahan kurang selama take-off dan pendaratan. Penelitian ini menunjukkan tidur siang mengembalikan energi seperti halnya kita kembali mendapat energi saat bangun pagi.
 
