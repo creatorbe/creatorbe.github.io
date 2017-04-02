@@ -24,6 +24,7 @@ Hi folks... here's another links to get in touch with me, Hasan Basri aka creato
 * HTML Minify _(Compress HTML)_ using [Jekyll Compress HTML](https://github.com/penibelst/jekyll-compress-html)
 * CV template [here you edit](https://github.com/creatorbe/creatorbe.github.io/blob/master/cv.html)
 * Signature [here you edit](https://github.com/creatorbe/creatorbe.github.io/blob/master/_includes/signature.html)
+* Google Translate Button
 
 ### Install & Configuration
 
