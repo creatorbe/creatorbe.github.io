@@ -62,7 +62,14 @@ Dari keterangan singkat di atas, ada yang berpendapat bahwasanya di saat udara d
 
 - **Menghemat Uang** Bagaimana bisa? ketika anda ditempat kerja jam istirahat siang, daripada menghabiskan uang untuk membeli kopi,suplemen lainya, atau camilan penghilang ngantuk, lebih baik ambillah waktu untuk istirahat, jika tidak bisa berbaring setidaknya posisikan diri di posisi yang nyaman, duduk dan tidurlah sejenak.
 
+
+### Conclusion
+
+Qoilulah tidur siang sejenak, waktu pelaksanaanya terdapat selisih paham diantara ulama, akan tetapi insyaallah pendapat yang paling rajih (kuat) ialah sehabis dzuhur (disini penulis melaksanakannya terkadang sebelum dan terkadang sesudah dzuhur). Terkait lama / periode waktunya penulis menyimpulkan menurut beberapa penelitian yang dilakukan mencapai hasil maksimal ketika menempuh waktu sekitar 15 menit hingga 30 menitan (kurang dari 1 jam) dimana manfaat nya sudah tidak diragukan lagi untuk menjaga kesehatan dan meningkatkaan produktivitas.
+
 Demikian, mungkin masih banyak manfaat baik yang tidak tercantumkan pada penjelasan diatas baik mungkin karena saya sebagai penulis terlewati dalam merangkum ataupun dari segi penelitian masih belum mendapatkan informasi. Subhanallah ya akhi, tidur sianglah... orang orang disana sibuk meneliti perihal yang bisa jadi kita anggap hal sepeleh, tapi bagi mereka adalah sesuatu terobosan yang luar biasa dan fakta nya itu telah di bawa dan di contohkan oleh nabi muhammad shallahu'alaihi wasallam sejak berabad silam. Sampai kapan kita kagum dan menunggu hasil dari penelitian, kembali dan pelajari lah alquran, as-sunnah dan bercerminlah pada nabi muhammad shallahu'alaihi wasallam sebagai sosok teladan.
+
+*"Sesungguhnya pada diri Rasulullah ada teladan yang baik bagimu, yaitu bagi orang yang mengharap Allah dan hari akhir serta banyak berdzikir kepada Allah."* **(Al-Ahzab: 21)**
 
 ./creatorb
 
