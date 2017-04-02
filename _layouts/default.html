@@ -134,12 +134,12 @@ layout: compress
           </div>
           <hr />
           <ul class="sidebar-nav">
-             {% include google-translate.html %}
             <strong>Navigation</strong>
             <li><a href="/">Home</a></li>
             {% for i in site.urls %}
               <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
             {% endfor %}
+            {% include google-translate.html %}
           </ul>
         </div>
         <!-- end /.fixed-condition -->
