@@ -11,6 +11,7 @@ Sepertinya halnya belajar bahasa pemprograman lain, pelajaran pertama adalah bag
 
 ### Cara Membuat Proyek / Aplikasi Android
 
+
 1. Pada jendela aktif android studio pilih create new project untuk membuat proyek baru.
  * jika anda baru saja melakukan instalasi dan menjalankan pertama kali android studio anda maka akan masuk tampilan awal dari android studio di jendela **Welcome to Android Studio** kemudian pilih **Start a New Android Studio project**.
  * tapi jika anda sebelumnya telah membuat proyek android atau masuk pada tampilan proyek android maka tinggal pilih menu **File > New Project**.
@@ -26,6 +27,7 @@ dengan konfigurasi diatas nantinya nama package proyek anda akan berupa io.githu
 
 
 ### Memulai Pemprograman Android Dasar 
+
 
 Sebelum masuk pada bahasa pemprograman, ada baiknya ada mengulas pembahasan lalu mengenai [Memahami Struktur Proyek Android](https://creatorbe.github.io/programming/android/2017/03/30/memahami-struktur-project-di-android-studio-creatorbe.html) untuk menjaga kesepahaman dan tidak terjadi pembahasan ulang disini. Umumnya pada proses pengembangan android anda akan lebih banyak di sibukkan dengan mengerjakan beberapa pemprograman di lingkup tertentu saja seperti halnya berikut:
 
