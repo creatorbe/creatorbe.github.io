@@ -23,7 +23,7 @@ Tidak sedalam menyelam dalam kisah romeo dan juliet tapi secerca romansa java da
     tools:context=".MainActivity">
 
     <TextView 
-        android:text="Perasaan"
+        android:text="Cinta"
         android:id="@+id/textview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
@@ -33,7 +33,7 @@ Tidak sedalam menyelam dalam kisah romeo dan juliet tapi secerca romansa java da
 
 **MainActivity.java**
 
-```xml
+```java
 public class MainActivity extends Activity {
     
         @Override
@@ -41,13 +41,13 @@ public class MainActivity extends Activity {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_main);
 
-              TextView cinta  = (TextView) findViewById(R.id.textview);
+              TextView perasaan  = (TextView) findViewById(R.id.textview);
                                             
             }
 }
 ```
 
-Seperti itulah umumnya implementasi dan berikut jika java sebagai persepsi.
+Seperti itulah umumnya implementasi mengungkapkan nilai (Cinta :p) dari sebuah variabel (Perasaan ^^) dan berikut jika java sebagai persepsi.
 
 ```java
 public class MainActivity extends Activity {
@@ -58,11 +58,11 @@ public class MainActivity extends Activity {
                 setContentView(R.layout.activity_main);
 
                    View relativeLayout = findViewById(R.id.rootlayout);
-                   TextView cinta = new TextView(this);
-                   cinta.setText("Perasaan");
-                   cinta.setId(12)
+                   TextView perasaan = new TextView(this);
+                   perasaan.setText("Cinta");
+                   perasaan.setId(12)
                    setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT,LayoutParams.WRAP_CONTENT)); 
-                   ((RelativeLayout) relativeLayout).addView(cinta);
+                   ((RelativeLayout) relativeLayout).addView(perasaan);
                                                                     
             }
 }
@@ -78,8 +78,4 @@ Disini xml sangat mengerti java dan disana sebagian orang hendak memisahkannya, 
 
 **Rujukan**
 - [https://developer.android.com/reference/android/widget/TextView.html](https://developer.android.com/reference/android/widget/TextView.html)
-
-
-
-
 
