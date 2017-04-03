@@ -10,7 +10,7 @@ Tidak sedalam menyelam dalam kisah romeo dan juliet tapi secerca romansa java da
 
 **activity_main.xml**
 
-```
+```xml
 <RelativeLayout 
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -33,7 +33,7 @@ Tidak sedalam menyelam dalam kisah romeo dan juliet tapi secerca romansa java da
 
 **MainActivity.java**
 
-```
+```xml
 public class MainActivity extends Activity {
     
         @Override
@@ -49,7 +49,7 @@ public class MainActivity extends Activity {
 
 Seperti itulah umumnya implementasi dan berikut jika java sebagai persepsi.
 
-```
+```java
 public class MainActivity extends Activity {
     
         @Override
