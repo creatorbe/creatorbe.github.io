@@ -15,7 +15,7 @@ Hi folks... here's another links to get in touch with me, Hasan Basri aka creato
 * Posts under category
 * Realtime Search Posts _(title & description)_ under query.
 * Related Posts
-* Highlight pre
+* Highlight pre (i prefer to use default [github tag](https://help.github.com/articles/creating-and-highlighting-code-blocks/))
 * Next & Previous Post
 * Disqus comment
 * Projects page & Detail Project page
