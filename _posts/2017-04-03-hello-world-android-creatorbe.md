@@ -28,11 +28,24 @@ dengan konfigurasi diatas nantinya nama package proyek anda akan berupa io.githu
 
 ### Memulai Pemprograman Android Dasar 
 
-
 Sebelum masuk pada bahasa pemprograman, ada baiknya ada mengulas pembahasan lalu mengenai [Memahami Struktur Proyek Android](https://creatorbe.github.io/programming/android/2017/03/30/memahami-struktur-project-di-android-studio-creatorbe.html) untuk menjaga kesepahaman dan tidak terjadi pembahasan ulang disini. Umumnya pada proses pengembangan android anda akan lebih banyak di sibukkan dengan mengerjakan beberapa pemprograman di lingkup tertentu saja seperti halnya berikut:
 
 **app > java > io.github.creatorbe.helloworld > MainActivity.java**
-MainActivity.java salah satu file yang tadi nya anda buat di jendela **Customize the Activity**
 
-**Coming Soon**
-*penulis masih sedang menulis*
+ -  MainActivity.java salah satu output file yang tadi nya anda buat di jendela **Customize the Activity**. File java di direktori ini bisa di isi kompleksitas kode yang di dalammnya mengatur bagaimana aplikasi android berjalan, baik itu memerintah UI untuk berjalan, menangani proses dibelakang layar, berkomunikasi antar devices  ataupun koneksi dengan database. Dalam development android file java nantinya akan di konversi dalam bentuk dex dalam paket apk. 
+
+**app > res > layout > activity_main.xml**
+
+ - File dalam direktori layout akan dijumpai banyak ekstensi file.xml disana untuk konfigurasi user interface antara aplikasi dan pengguna.
+
+**app > manifests > AndroidManifest.xml**
+
+ - Berisi konfigurasi global, mendefinisasikan tiap tiap komponen dalam aplikasi android.
+
+**Gradle Scripts > build.gradle**
+
+ - Mengenai gradle sendiri telah di jelaskan di pembahasan [Apa itu Gradle]{https://creatorbe.github.io/programming/android/gradle/2017/03/30/apa-sih-pengertian-gradle-creatorbe.html} dimana di setiap proyek android memiliki gradle dengan fungsi sadar untuk mengompilasi dan membangun aplikasi dari proyek yang kita kerjakan.
+ 
+ *Coming Soon* some things still buffering to converting but my eyes really want to sleeping huh, please waiting ... cya
+
+./creatorb
