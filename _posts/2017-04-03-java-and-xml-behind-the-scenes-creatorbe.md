@@ -10,8 +10,7 @@ Tidak sedalam menyelam dalam kisah romeo dan juliet tapi secerca romansa java da
 
 **activity_main.xml**
 
-{% highlight xml %}
-
+```
 <RelativeLayout 
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -30,13 +29,11 @@ Tidak sedalam menyelam dalam kisah romeo dan juliet tapi secerca romansa java da
         android:layout_height="wrap_content" />
 
 </RelativeLayout>
-
-{% endhighlight %}
+```
 
 **MainActivity.java**
 
-{% highlight java%}
-
+```
 public class MainActivity extends Activity {
     
         @Override
@@ -48,12 +45,11 @@ public class MainActivity extends Activity {
                                             
             }
 }
-{% endhighlight %}
+```
 
 Seperti itulah umumnya implementasi dan berikut jika java sebagai persepsi.
 
-{% highlight %}
-
+```
 public class MainActivity extends Activity {
     
         @Override
@@ -70,8 +66,7 @@ public class MainActivity extends Activity {
                                                                     
             }
 }
-
-{% endhighlight %}
+```
 
 Keren, begitu indah, tak terukir kata, seakan ingin rasanya mengatakan lihat dan baca lah, biar kode yang menjelaskannya, haha!.
 
