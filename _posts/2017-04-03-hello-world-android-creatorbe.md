@@ -44,8 +44,10 @@ Sebelum masuk pada bahasa pemprograman, ada baiknya ada mengulas pembahasan lalu
 
 **Gradle Scripts > build.gradle**
 
- - Mengenai gradle sendiri telah di jelaskan di pembahasan [Apa itu Gradle]{https://creatorbe.github.io/programming/android/gradle/2017/03/30/apa-sih-pengertian-gradle-creatorbe.html} dimana di setiap proyek android memiliki gradle dengan fungsi sadar untuk mengompilasi dan membangun aplikasi dari proyek yang kita kerjakan.
+ - Mengenai gradle sendiri telah di jelaskan di pembahasan [Apa itu Gradle](https://creatorbe.github.io/programming/android/gradle/2017/03/30/apa-sih-pengertian-gradle-creatorbe.html) dimana di setiap proyek android memiliki gradle dengan fungsi dasar untuk mengompilasi dan membangun aplikasi dari proyek yang kita kerjakan.
+
  
- *Coming Soon* some things still buffering to converting but my eyes really want to sleeping huh, please waiting ... cya
+ **Coming Soon**
+ *LoL! some things still buffering to converting but my eyes really want to sleeping huh, please waiting next string... cya*
 
 ./creatorb
