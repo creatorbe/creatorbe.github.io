@@ -2,7 +2,7 @@
 layout: post
 title: "gh-pages Rocks!"
 date: 2015-10-26 05:56:06
-tags: [en,github,minds]
+categories: [en,git,minds]
 description: "Quick Start to blogging like a hacker, this is a part how i and github doing an awesome party stuff"
 ---
 
@@ -16,7 +16,7 @@ This blog I’ve been made by love using GitHub Pages and Jekyll Themes combinat
 
 ### How Cool is that
 
-of course! it's really pretty cool, based on __KEEP IT SIMPLE **SMART**__ in a way to transform your plain text into awesome blogs. *Why awesome?* because there's **No Databases** and going **Fast**. Yeah all posts and pages will convert to static HTML and here we can't execute php, we know the vast majority of vulnerabilities that affect platforms come from that and now you don't have spend as much time to installing security updates, at the least the entry points to hack is your self. 
+of course! it's really pretty cool, based on **KEEP IT SIMPLE __SMART__** in a way to transform your plain text into awesome blogs. *Why awesome?* because there's **No Databases** and going **Fast**. Yeah all posts and pages will convert to static HTML and here we can't execute php, we know the vast majority of vulnerabilities that affect platforms come from that and now you don't have spend as much time to installing security updates, at the least the entry points to hack is your self. 
 
 
 ### Getting Started
@@ -38,7 +38,7 @@ If you has known about the basic of github pages, Now improve it and Powering yo
 
 [Jekyll](https://jekyllrb.com/) is an awesome open source project started at GitHub in a few years ago that a static site generator allows you to create a blog or a website without having to worry about complicated administrative tools,like databases,etc. Jekyll stores everything inside of text files and you can publish your posts using Markdown markup language (you can check my markdown cheatsheet here).
 
-You can also built [Prose.io](http://prose.io/), a web-based content editor specifically designed to __MAKE IT SIMPLE *STUPID*__ for content creators to publish to Jekyll on GitHub, but in my case i __MAKE IT SIMPLE **SMART**__ by using vim and btw overall it just editor choices, you can choose which one's you comfortable to work with it.
+You can also built [Prose.io](http://prose.io/), a web-based content editor specifically designed to **MAKE IT SIMPLE __STUPID__** for content creators to publish to Jekyll on GitHub, but in my case i **MAKE IT SIMPLE __SMART__** by using vim and btw overall it just editor choices, you can choose which one's you comfortable to work with it.
 
 **Jekyll Quickstart**
 
