@@ -16,7 +16,7 @@ This blog I’ve been made by love using GitHub Pages and Jekyll Themes combinat
 
 ### How Cool is that
 
-of course! it's really pretty cool, based on **KEEP IT SIMPLE** *SMART* in a way to transform your plain text into awesome blogs. *Why awesome?* because there's **No Databases** and going **Fast**. Yeah all posts and pages will convert to static HTML and here we can't execute php, we know the vast majority of vulnerabilities that affect platforms come from that and now you don't have spend as much time to installing security updates, at the least the entry points to hack is your self. 
+of course! it's really pretty cool, based on **KEEP IT SIMPLE _SMART_** in a way to transform your plain text into awesome blogs. *Why awesome?* because there's **No Databases** and going **Fast**. Yeah all posts and pages will convert to static HTML and here we can't execute php, we know the vast majority of vulnerabilities that affect platforms come from that and now you don't have spend as much time to installing security updates, at the least the entry points to hack is your self. 
 
 
 ### Getting Started
@@ -37,8 +37,6 @@ Yep, that's my simple explanations about github pages, if you need more stuff yo
 If you has known about the basic of github pages, Now improve it and Powering your site using Jekyll. What is jekyll?
 
 [Jekyll](https://jekyllrb.com/) is an awesome open source project started at GitHub in a few years ago that a static site generator allows you to create a blog or a website without having to worry about complicated administrative tools,like databases,etc. Jekyll stores everything inside of text files and you can publish your posts using Markdown markup language (you can check my markdown cheatsheet here).
-
-You can also built [Prose.io](http://prose.io/), a web-based content editor specifically designed to **MAKE IT SIMPLE __STUPID__** for content creators to publish to Jekyll on GitHub, but in my case i **MAKE IT SIMPLE __SMART__** by using vim and btw overall it just editor choices, you can choose which one's you comfortable to work with it.
 
 **Jekyll Quickstart**
 
@@ -73,7 +71,7 @@ btw you need full Ruby development environment with all headers and RubyGems ins
 
 - [github.com/jekyll](https://github.com/jekyll) there is jekyll official repositories, a place where you can found any person who work with the coolest thinks of Jekyll blogs, there's place you can browse jekyll themes, plugins, seo-tags and an another awesome stuff, Have Fun!.
 
-- If you are a person who dont have knowledge deep in software development, dont let it dissuade you because actually you can get it one as easy by fork what a themes you want to use and then you need edit some stuff on their documentation, and finally hell yeah you can make it live on your repository, thats is really simple right?. In another side you can also built [Prose.io](http://prose.io/), a web-based content editor specifically designed to **MAKE IT SIMPLE** *STUPID* for content creators to publish to Jekyll on GitHub Pages, I know in my case i **MAKE IT SIMPLE** *SMART* by using vim and push my string from my lovely terminal haha! thats how cool im :p but overall it just editor choices, you can choose which one's you comfortable to work with it and in another side it doesn’t require elite hacker,programmer skills or knowledge of the command line, it simple. Enjoy! and make your life easier.
+- If you are a person who dont have knowledge deep in software development, dont let it dissuade you because actually you can get it one as easy by fork what a themes you want to use and then you need edit some stuff on their documentation, and finally hell yeah you can make it live on your repository, thats is really simple right?. In another side you can also built [Prose.io](http://prose.io/), a web-based content editor specifically designed to **MAKE IT SIMPLE _STUPID_** for content creators to publish to Jekyll on GitHub Pages, I know in my case i **MAKE IT SIMPLE _SMART_** by using vim and push my string from my lovely terminal haha! thats how cool im :p but overall it just editor choices, you can choose which one's you comfortable to work with it and in another side it doesn’t require elite hacker,programmer skills or knowledge of the command line, it simple. Enjoy! and make your life easier.
 
 
 ### Conclusion
