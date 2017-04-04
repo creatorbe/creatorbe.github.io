@@ -38,7 +38,7 @@ If you plan to include our source code in site templates or to package it with o
 
 * Development
 
-I already posted how this blog [work behind the scenes](). For details documentations included source and license, you can directly check the project on my github repository [creatorbe.github.io](https://github.com/creatorbe/creatorbe.github.io)
+I already posted how this blog [work behind the scenes](https://creatorbe.github.io/en/git/minds/2015/10/26/gh-pages-creatorbe.html). For details documentations included source and license, you can directly check the project on my github repository [creatorbe.github.io](https://github.com/creatorbe/creatorbe.github.io)
 
 
 Warning
