@@ -8,6 +8,19 @@ description: "Quick Start to blogging like a hacker, this is a part how i and gi
 
 This blog I’ve been made by love using GitHub Pages and Jekyll Themes combination. I learned some advantages and disadvantages about what the heck is it and how we can work with it, well I thought I should to create a short guide on how i made it. Lets have fun! this is a way to understanding how [creatorbe links](https://creatorbe.github.io) works behind the scenes.
 
+<div style="width:100%">
+  <div style="float:left; width:100 px">
+      <img style="height:150px; width:100px max-width: 100% max-height: 100%" src="https://raw.githubusercontent.com/creatorbe/creatorbe.github.io/master/static/img/creatorbe-links-realpics.jpg" alt="creatorb links on laptop"/>
+  </div>
+  <div style="float:left; width:100 px">
+      <img style="height:150px; width:100px max-width: 100% max-height: 100%" src="https://raw.githubusercontent.com/creatorbe/creatorbe.github.io/master/static/img/creatorbe-links-android.jpg" alt="creatorb links on android"/>
+  </div>
+  <div style="float:left; width:100 px">
+      <img style="height:150px; width:100px max-width: 100% max-height: 100%" src="https://raw.githubusercontent.com/creatorbe/creatorbe.github.io/master/static/img/creatorbe-links-creatorb.png" alt="creatorb links on vim"/>
+  </div>
+<div style="clear:both"></div>
+</div>
+
 
 ### Introduction
 
