@@ -15,16 +15,17 @@ Hi folks... here's another links to get in touch with me, Hasan Basri aka creato
 * Posts under category
 * Realtime Search Posts _(title & description)_ under query.
 * Related Posts
-* Highlight pre (i prefer to use default [github tag](https://help.github.com/articles/creating-and-highlighting-code-blocks/))
+* Highlight pre (i prefer you to use default [github tag](https://help.github.com/articles/creating-and-highlighting-code-blocks/))
 * Next & Previous Post
 * Disqus comment
 * Projects page & Detail Project page
 * Share on social media
 * Google analytics
 * HTML Minify _(Compress HTML)_ using [Jekyll Compress HTML](https://github.com/penibelst/jekyll-compress-html)
-* CV template [here you edit](https://github.com/creatorbe/creatorbe.github.io/blob/master/cv.html)
-* Signature [here you edit](https://github.com/creatorbe/creatorbe.github.io/blob/master/_includes/signature.html)
+* [CV template](https://github.com/creatorbe/creatorbe.github.io/blob/master/cv.html)
+* [Signature](https://github.com/creatorbe/creatorbe.github.io/blob/master/_includes/signature.html)
 * Google Translate Button
+* [Custom 404 page](https://github.com/creatorbe/creatorbe.github.io/blob/master/404.html) 
 
 ### Install & Configuration
 
