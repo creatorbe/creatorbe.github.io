@@ -44,7 +44,7 @@ Sebelum masuk pada bahasa pemprograman, ada baiknya ada mengulas pembahasan lalu
 
 **Gradle Scripts > build.gradle**
 
- - Mengenai gradle sendiri telah di jelaskan di pembahasan [Apa itu Gradle](https://creatorbe.github.io/programming/android/gradle/2017/03/30/apa-sih-pengertian-gradle-creatorbe.html) dimana di setiap proyek android memiliki gradle dengan fungsi dasar untuk mengompilasi dan membangun aplikasi dari proyek yang kita kerjakan.
+ - Mengenai gradle sendiri telah di jelaskan di pembahasan [Apa itu Gradle](https://creatorbe.github.io/programming/android/2017/03/30/apa-sih-pengertian-gradle-creatorbe.html) dimana di setiap proyek android memiliki gradle dengan fungsi dasar untuk mengompilasi dan membangun aplikasi dari proyek yang kita kerjakan.
 
  
  **Coming Soon**
