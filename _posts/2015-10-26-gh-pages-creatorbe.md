@@ -6,11 +6,9 @@ categories: [en,git,minds]
 description: "Quick Start to blogging like a hacker, this is a part how i and github doing an awesome party stuff"
 ---
 
-![creatorbelinks-vim](https://raw.githubusercontent.com/creatorbe/creatorbe.github.io/master/static/img/creatorbe-links-creatorb.png)
-
 This blog I’ve been made by love using GitHub Pages and Jekyll Themes combination. I learned some advantages and disadvantages about what the heck is it and how we can work with it, well I thought I should to create a short guides. Lets have fun! this is a way to understanding how [creatorbe links](https://creatorbe.github.io) works behind the scenes.
 
-![creatorbelinks-android](https://raw.githubusercontent.com/creatorbe/creatorbe.github.io/master/static/img/creatorbe-links-android.jpg)
+![creatorbelinks-vim](https://raw.githubusercontent.com/creatorbe/creatorbe.github.io/master/static/img/creatorbe-links-creatorb.png)
 
 
 ### Introduction
@@ -86,6 +84,8 @@ btw you need full Ruby development environment with all headers and RubyGems ins
 Hmm, what? wait... maybe at the least i just wanna say i can't compare this heck with an another greats cms. Because overall it's depend with what a site do you want to builds, jekyll isn't site for handle task like managing database user or an another difficult server-side logic. 
 
 I live in here because i just need simplicity and minimalism place, where there i can push my valuable string to live on internet and everyone can read it and get in touch with me as reader or software engineer :)
+
+<img style="height:300px; width:200px" src="https://raw.githubusercontent.com/creatorbe/creatorbe.github.io/master/static/img/creatorbe-links-android.jpg" alt="creatorb links on android"/>
 
 
 ./creatorb
