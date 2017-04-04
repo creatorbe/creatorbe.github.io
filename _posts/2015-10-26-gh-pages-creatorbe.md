@@ -21,6 +21,7 @@ of course! it's really pretty cool, based on *KEEP IT SIMPLE __SMART__* in a way
 
 ### Getting Started
 
+
 **Github Pages Quickstart**
 
 * You must have [github](https://github.com) account and basic knowledge how work with that. This is my account [github.com/creatorb](https://creatorb).
@@ -73,7 +74,7 @@ btw you need full Ruby development environment with all headers and RubyGems ins
 
 - [Jekyll Talk](https://talk.jekyllrb.com/) A place for the Jekyll community to ask questions, get help, and share their wonderful creations!
 
-- If you are a person who dont have knowledge as deep in software development, dont let it dissuade you because you can get it one as easy by fork what a themes you want to use and then you need edit some stuff, check their documentation, and finally hell yeah you can make it live on your repository, thats is really simple right?. An awesome one is you can also built [Prose.io](http://prose.io/), a web-based content editor specifically designed to *MAKE IT SIMPLE __STUPID__* for content creators to publish to Jekyll on GitHub Pages, in my case i *MAKE IT SIMPLE __SMART__* using vim and push my string from my lovely terminal, thats how cool im :p haha! but overall it just editor choices, you can choose which one's you comfortable to work with it. Enjoy! and make your life easier.
+- If you are a person who dont have knowledge as deep in software development, dont let it dissuade you because you can get it one as easy by fork what a themes you want to use and then you need edit some stuff, check their documentation, and finally hell yeah you can make it live on your repository, thats is really simple right?. An awesome one is you can also built [Prose.io](http://prose.io/), a web-based content editor specifically designed to *MAKE IT SIMPLE __STUPID__* for content creators to publish to Jekyll on GitHub Pages, in my case i *MAKE IT SIMPLE __SMART__* :l, thats how cool im :p haha! but overall it just editor choices, you can choose which one's you comfortable to work with it. Enjoy! and make your life easier.
 
 
 ### Conclusion
