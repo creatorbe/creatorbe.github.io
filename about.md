@@ -18,7 +18,7 @@ Thanks for Allah, thanks for my parents, thanks for all crew of jasaprogrammer, 
 Blog's
 ======
 
-This is *creatorbe links*, creatorb's personal blogs and developed with love! Mostly all contents here based on my life story, that's mean we will talk about software, muslim lifestyle, and another my lifehack experiences. LOL! please imma not an expert, but i want to be. Today 29 march, i starting this blog and insyaallah i will focussing to rest in here, and about some old post it just my past articles i have included. Actually on the wild i have so many blogs, because like i said before i really love explore anything what i'm interested but so sorry i can't explain everything here. I know and absolutely understanding `Knowledge is Free` it's my way too, but `Sometimes you don't need to tell everything you know`.
+This is creatorb's personal blog's and developed with love! Mostly all contents here based on my life story, that's mean we will talk about software development, muslim lifestyle, and another my lifehack experiences. LOL! imma not an expert, but i want to be. Insyaallah i will focussing to rest in here, of course on the wild i have so many blogs, because like i said before i really love explore anything what i'm interested but so sorry i can't explains everything here. I know and absolutely understanding `Knowledge is Free` it's my way too, but `Sometimes you don't need to tell everything you know`.
 
 
 License
