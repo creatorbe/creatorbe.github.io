@@ -13,6 +13,7 @@ CBCS (creatorbe cheatsheet) a way to make my life easier.
 
 ### [List](#list)
 - [GitHub Markdown](#github-markdown)
+	- [Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 	- [Headers](#headers)
 	- [Text](#text)
 
