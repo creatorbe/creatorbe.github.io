@@ -2,7 +2,7 @@
 layout: post
 title: "Gradle itu apa sih?"
 date: 2017-03-30 13:16:23 +0700
-categories: [programming,android,gradle]
+categories: [programming,android]
 description: "Pembahasan lengkap mengenai pengertian dasar gradle, bagaimana cara menggunakan gradle dan melihat bagaimana gradle bekerja sebagai pembangun otomatisasi dalam sistem."
 ---
 
