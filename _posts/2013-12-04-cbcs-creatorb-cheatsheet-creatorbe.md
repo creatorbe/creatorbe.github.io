@@ -50,7 +50,7 @@ Quote break.
 > Blockquote
 >> Nested blockquote
 
-    Markup :  > Blockquote
+    Markdown :  > Blockquote
               >> Nested Blockquote
 
 
@@ -59,7 +59,7 @@ Quote break.
 - [x] A completed task
 
 ~~~
- Markup : - [ ] An uncompleted task
+ Markdown : - [ ] An uncompleted task
           - [x] A completed task
 ~~~
 
@@ -264,7 +264,7 @@ Some text to show that the reference links can follow later.
 * Bullet list item 2
 
 ~~~
- Markup : * Bullet list
+ Markdown : * Bullet list
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
@@ -276,7 +276,7 @@ Some text to show that the reference links can follow later.
 2. Which is numbered
 
 ~~~
- Markup : 1. A numbered list
+ Markdown : 1. A numbered list
               1. A nested numbered list
               2. Which is numbered
           2. Which is numbered
