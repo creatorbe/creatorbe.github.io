@@ -31,7 +31,8 @@ CBCS (creatorbe cheatsheet) a way to make my life easier.
   - [Cheat Chat](#cheat-chat)
 
 
-##GitHub Markdown
+
+## GitHub Markdown
 
 ### Blockquotes
  
@@ -415,10 +416,10 @@ Or, in pure Markdown, but losing the image sizing and border:
  
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1. 
 
-[![image alt text ](https://cloud.githubusercontent.com/assets/11401067/21779598/5eedfdd0-d676-11e6-939c-0761409e32c6.png?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dFwvW6E1Mz3wYDcuvMJ4p_OBi9I)](https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg)
+[![image alt text ](https://raw.githubusercontent.com/CreatorB/res/master/pic/youtube-banner-creatorbe-medium.png)](https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg)
 
 ```
-[![image alt text ](https://cloud.githubusercontent.com/assets/11401067/21779598/5eedfdd0-d676-11e6-939c-0761409e32c6.png?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dFwvW6E1Mz3wYDcuvMJ4p_OBi9I)](https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg)
+[![image alt text ](https://raw.githubusercontent.com/CreatorB/res/master/pic/youtube-banner-creatorbe-medium.png)](https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg)
 ```
 
 
@@ -432,7 +433,8 @@ Referencing a bug by #bugID in your git commit links it to the slip. For example
 
 ### Cheat Chat
 
-  <ul><li>/Join join a channel</li></ul><ul><li>/server Join a server </li></ul><ul><li>/disconnect </li></ul><ul><li>/connect </li></ul><ul><li>/window new create split </li></ul><ul><li>“ close close split </li></ul><ul><li>“ show show window </li></ul><ul><li>/query nick </li></ul><ul><li>/join #channel </li></ul><ul><li>/msg nick <message > </li></ul><ul><li>Alt-1...9 change window </li></ul><ul><li>Alt-a active window </li></ul><ul><li>Alt-n scroll forward </li></ul><ul><li>Alt-p scroll backward </li></ul><ul><li>/alias list alias </li></ul><ul><li>Tab autocomplete </li></ul><ul><li>/q - /query open query </li></ul><ul><li>/wc window close </li></ul><ul><li>/set timestamp show TS </li></ul><ul><li>/help help </li></ul>
+  [![irssi-cbcs](https://raw.githubusercontent.com/CreatorB/res/master/pic/cbcs-irssi-creatorb.png)](https://raw.githubusercontent.com/CreatorB/res/master/pic/cbcs-irssi-creatorb.png)
+
 
 
 ./creatorb
