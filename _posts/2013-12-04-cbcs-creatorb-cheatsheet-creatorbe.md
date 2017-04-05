@@ -119,7 +119,7 @@ Quote break.
 ### Emoji
 emoji :smile: :thumbsup: `emoji :smile: :thumbsup:`
 
-> NOTE: < a href="http://www.webpagefx.com/tools/emoji-cheat-sheet/" target="_blank">Emoji cheat sheet for Github</a>
+NOTE: <a href="http://www.webpagefx.com/tools/emoji-cheat-sheet/" target="_blank">Emoji cheat sheet for Github</a>
 
 
 ### Headers
