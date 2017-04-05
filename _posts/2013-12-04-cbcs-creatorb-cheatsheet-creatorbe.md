@@ -69,24 +69,50 @@ Quote break.
 
     Markdown :  `code()`
 
-```javascript
-    var specificLanguage_code = 
-    {
-        "data": {
-            "lookedUpPlatform": 1,
-            "query": "Kasabian+Test+Transmission",
-            "lookedUpItem": {
-                "name": "Test Transmission",
-                "artist": "Kasabian",
-                "album": "Kasabian",
-                "picture": null,
-                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
-            }
-        }
-    }
+```xml
+
+    <RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".CreatorbeActivity">
+
+    <TextView 
+        android:text="Coding"
+        android:id="@+id/textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
+
 ```
 
-    Markdown : ```javascript
+    Markdown : ```xml
+
+    			   <RelativeLayout 
+					    xmlns:android="http://schemas.android.com/apk/res/android"
+					    xmlns:tools="http://schemas.android.com/tools"
+					    android:layout_width="match_parent"
+					    android:layout_height="match_parent"
+					    android:paddingLeft="@dimen/activity_horizontal_margin"
+					    android:paddingRight="@dimen/activity_horizontal_margin"
+					    android:paddingTop="@dimen/activity_vertical_margin"
+					    android:paddingBottom="@dimen/activity_vertical_margin"
+					    tools:context=".CreatorbeActivity">
+
+					    <TextView 
+					        android:text="Coding"
+					        android:id="@+id/textview"
+					        android:layout_width="wrap_content"
+					        android:layout_height="wrap_content" />
+
+					</RelativeLayout>
+
                ```
 
 
