@@ -334,6 +334,7 @@ Markdown | Less | Pretty
 
 ### Text
 
+ 
  Common text
 
     Markdown :  Common text
@@ -353,6 +354,18 @@ __Strong text__
 ___Strong emphasized text___
 
     Markdown :  ___Strong emphasized text___ or ***Strong emphasized text***
+
+Backslash Escapes
+Markdown allows you to use backslash escapes to generate literal characters which
+would otherwise have special meaning in Markdown’s formatting syntax.
+
+\*literal asterisks\*
+
+	Markdown : \*literal asterisks\*
+
+@mentions
+
+	Markdown : @mentions
 
 
 ### Youtube Videos

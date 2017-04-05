@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-[![creatorbelinkslive](https://raw.githubusercontent.com/creatorbe/creatorbe.github.io/master/static/img/creatorbe-links-realpics.jpg)](https://creatorbe.github.io/en/git/minds/2015/10/26/gh-pages-creatorbe.html)
+![creatorbelinkslive](https://raw.githubusercontent.com/creatorbe/creatorbe.github.io/master/static/img/creatorbe-links-realpics.jpg)
+[*sources links*](https://creatorbe.github.io/en/git/minds/2015/10/26/gh-pages-creatorbe.html)
 
 assalamualaikum
 
