@@ -32,22 +32,22 @@ Sebelum masuk pada bahasa pemprograman, ada baiknya ada mengulas pembahasan lalu
 
 **app > java > io.github.creatorbe.helloworld > MainActivity.java**
 
- -  MainActivity.java salah satu output file yang tadi nya anda buat di jendela **Customize the Activity**. File java di direktori ini bisa di isi kompleksitas kode yang di dalammnya mengatur bagaimana aplikasi android berjalan, baik itu memerintah UI untuk berjalan, menangani proses dibelakang layar, berkomunikasi antar devices  ataupun koneksi dengan database. Dalam development android file java nantinya akan di konversi dalam bentuk dex dalam paket apk. 
+ -  MainActivity.java salah satu output file yang tadi nya anda buat di jendela **Customize the Activity**. File java di direktori ini bisa di isi kompleksitas kode yang di dalammnya mengatur bagaimana aplikasi android berjalan, baik itu memerintah UI untuk berjalan, menangani proses dibelakang layar, berkomunikasi antar devices  ataupun koneksi dengan database. Dalam development android file java nantinya akan di konversi dalam bentuk dex dalam paket apk. File ini berisi sebagian besar fungsi dan logika pemprogramman yang berjalan pada aplikasi. 
 
 **app > res > layout > activity_main.xml**
 
- - File dalam direktori layout akan dijumpai banyak ekstensi file.xml disana untuk konfigurasi user interface antara aplikasi dan pengguna.
+ - Dalam direktori layout akan dijumpai banyak ekstensi file.xml disana untuk konfigurasi user interface antara aplikasi dan pengguna, disini kita memprogram bagaimana tampilan pada suatu aplikasi.
 
 **app > manifests > AndroidManifest.xml**
 
- - Berisi konfigurasi global, mendefinisasikan tiap tiap komponen dalam aplikasi android.
+ - Berisi konfigurasi global, mendefinisasikan tiap tiap komponen dalam aplikasi android, semisal nama aplikasi, target versi os, orientasi, dll.
 
 **Gradle Scripts > build.gradle**
 
- - Mengenai gradle sendiri telah di jelaskan di pembahasan [Apa itu Gradle](https://creatorbe.github.io/programming/android/2017/03/30/apa-sih-pengertian-gradle-creatorbe.html) dimana di setiap proyek android memiliki gradle dengan fungsi dasar untuk mengompilasi dan membangun aplikasi dari proyek yang kita kerjakan.
+ - Mengenai gradle sendiri telah di jelaskan di pembahasan [Apa itu Gradle](https://creatorbe.github.io/programming/android/2017/03/30/apa-sih-pengertian-gradle-creatorbe.html) dimana di setiap proyek android memiliki gradle dengan fungsi dasar untuk mengompilasi dan membangun aplikasi dari proyek yang kita kerjakan ataupun menambahkan depensi library yang di butuhkan.
 
- 
- **Coming Soon**
- *LoL! some things still buffering to converting but my eyes really want to sleeping huh, please waiting next string... cya*
+
+Demikian, sebagian besar proses pembangunan aplikasi android akan terfokus di empat hal diatas.
+
 
 ./creatorb
