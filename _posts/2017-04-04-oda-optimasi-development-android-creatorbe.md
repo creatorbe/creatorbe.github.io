@@ -8,8 +8,9 @@ description: "Pembahasan bagaimana meningkatkan efisiensi koding dan performa ke
 
 Bukan tentang cerita dimasa lalu ataupun coretan kisah yang tertelan waktu, tapi sebuah catatan pribadi yang mudah dicari dan semoga tidak hanya bermanfaat bagi diri ini.
 
-`optimasi bukan dari seberapa banyak aksi`
+`Optimasi bukan dari seberapa banyak aksi`
 `tapi keadaan dimana aktivitas yang tidak diperlukan berhenti`
+
 *~creatorbe*
 
 **TALK LESS, TWEAK MORE**
@@ -27,39 +28,20 @@ Bukan tentang cerita dimasa lalu ataupun coretan kisah yang tertelan waktu, tapi
 
 ### Android Studio
 
-Pada android studio secara default program bekerja pada mode online dikarenakan untuk memudahkan sinkronisasi dalam proyek (contoh : library) dan melakukan pengecekan berkala untuk melihat versi terbaru. Jika anda tidak memerlukan depensi terbaru anda bisa menonaktifkan fitur ini dan membiarkan gradle menggunakan cache dari library. Centang offline work dan pastikan menggunakan gradle yang ada di direktori lokal.
+Pada android studio secara default program bekerja pada mode online dikarenakan untuk memudahkan sinkronisasi dalam proyek (contoh : library) dan melakukan pengecekan berkala untuk melihat versi terbaru. Jika anda tidak memerlukan depensi terbaru anda bisa menonaktifkan fitur ini dan membiarkan gradle menggunakan cache dari library. Buka jendela setting pada android studio, Centang offline work dan pastikan menggunakan gradle yang ada di direktori lokal.
 
 ![android-offline-work](https://raw.githubusercontent.com/CreatorB/res/master/pic/improve-android-development-creatorbe.png)
 
 ### Gradle Script
 
-##### Gradle Properties
+#### Gradle Properties
 
 Berikut beberapa opsi tweak pada `gradle.properties` untuk penjelasan saya cantumkan dalam kode.
 
-```gradle
-# Di beberapa versi gradle secara default, gradle dalam keadaan mati
-# Tentu dengan menghidupkannya tidak perlu melakukan proses startup berulang kali
-# ada baiknya anda membaca https://docs.gradle.org/current/userguide/gradle_daemon.html
-org.gradle.daemon=true
+<script src="https://gist.github.com/CreatorB/0911fa88d62b8255b336bc6a6af697a1.js"></script>
 
-# Opsi spesifik dalam menentukan JVM arguments pada proses daemon dimana hal ini mempengaruhi kinerja memori.
-# https://docs.gradle.org/current/userguide/userguide_single.html#sec:gradle_configuration_properties
-# Default value: -Xmx10248m -XX:MaxPermSize=256m
-org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
 
-# Bagus untuk project mandiri dengan beberapa banyak modul
-# Namun perlu hati hati jika bekerja dalam team karena mungkin akan terjadi konflik diantara modul karena adanya keharusan memiliki modul lain.
-# lebih jelasnya http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:decoupled_projects
-org.gradle.parallel=true
-
-# Dalam dokumentasi gradle opsi ini menjalankan gradle hanya pada proyek yang melakukan permintaan/request
-# Semakin anda memiliki banyak modul yang terkait maka semakin banyak juga waktu yang diminimalisir.  
-# http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:configuration_on_demand
-org.gradle.configureondemand=true
-```
-
-##### Build Gradle
+#### Build Gradle
 
 Kembali mengingat kenangan lolipop (API 21) tentu membawa ingatan kita pada ART, dimana jika minSdkVersion jauh dibawah itu maka akan di generate dex yang berjalan dikeduanya baik ART atau pendahulunya JVM. Tapi yang beda jika kita setting pada opsi API 21 (menggunakan ART) dimana salah satu fiturnya tidak memerlukan main dex tadi sebelum MultiDex.install(), hal ini meminimalisir waktu dalam pengecekan class pada main dex. Untuk melihat bagaimana itu terjadi dalam detail anda bisa baca [developer.android.com/multidex](http://developer.android.com/tools/building/multidex.html#dev-build)
 
