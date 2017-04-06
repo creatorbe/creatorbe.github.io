@@ -3,7 +3,7 @@ layout: post
 title: "Hello android World!"
 date: 2017-04-03 04:03:14 +0700
 categories: [programming,android]
-description: "Pembahasan dasar bagi pemula tentang bagaimana cara membuat proyek android dengan Android Studio disertai beberapa penjelasan file dalam android project"
+description: "Quick Start Project for Android Developer. Pembahasan dasar bagi pemula tentang bagaimana cara membuat proyek android dengan Android Studio disertai beberapa penjelasan file dalam android project"
 ---
 
 Sepertinya halnya belajar bahasa pemprograman lain, pelajaran pertama adalah bagaimana menampilkan kalimat sapaan yang tidak asing lagi, hello world (in our side we say "Assalamualaikum World!"). Berikut tahapan pembuatan proyek baru android di android studio dimana ini di implementasikan di setiap anda membuat proyek android baru.
@@ -296,7 +296,10 @@ public class Main2Activity extends AppCompatActivity {
 
 ```
 
-fiyuuuh >.< akhirnya selesai juga tugas saya :v . Semoga postingan sederhana ini bisa bermanfaat bagi mereka yang memulai belajar pemprograman android, setidak nya ini adalah jejak kecil untuk memulai langkah yang besar.
+Fiyuuuh >.< akhirnya selesai juga tugas saya :v . Alhamdulillah, semoga postingan sederhana ini bisa bermanfaat bagi mereka yang memulai belajar pemprograman android, setidak nya ini adalah jejak kecil untuk langkah yang besar.
 
+**Resources**
+ - [Check Project](https://github.com/CreatorB/HelloAndroidWorld)
+ - [Download](https://github.com/CreatorB/HelloAndroidWorld/archive/master.zip)
 
 ./creatorb
