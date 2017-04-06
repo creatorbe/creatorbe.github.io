@@ -142,7 +142,7 @@ android {
 ### Coming Soon
 
 *i'm still working on awesome android development optimization, ...*
-*next time insyaallah i will post an another development tips, actually in the wild its not only talking about optimization but yours app on privation*
+*next time insyaallah i will post an another development tips, btw in the wild it isn't only about optimization but yours app on privation*
 
 
 ./creatorb
