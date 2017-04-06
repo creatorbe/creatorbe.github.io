@@ -38,12 +38,55 @@ Pada android studio secara default program bekerja pada mode online dikarenakan 
 
 Berikut beberapa opsi tweak pada `gradle.properties` untuk penjelasan saya cantumkan dalam kode.
 
-<script src="https://gist.github.com/CreatorB/0911fa88d62b8255b336bc6a6af697a1.js"></script>
+```gradle
+
+# Di beberapa versi gradle secara default, gradle dalam keadaan mati
+# Tentu dengan menghidupkannya tidak perlu melakukan proses startup berulang kali
+
+org.gradle.daemon=true
+
+# Opsi spesifik dalam menentukan JVM arguments pada proses daemon dimana hal ini mempengaruhi kinerja memori.
+# Default value: -Xmx10248m -XX:MaxPermSize=256m
+
+org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
+
+# Bagus untuk project mandiri dengan beberapa banyak modul
+# Namun perlu hati hati jika bekerja dalam team karena mungkin akan terjadi konflik diantara modul karena adanya keharusan memiliki modul lain.
+
+org.gradle.parallel=true
+
+# Dalam dokumentasi gradle opsi ini menjalankan gradle hanya pada proyek yang melakukan permintaan/request
+# Semakin anda memiliki banyak modul yang terkait maka semakin banyak juga waktu yang diminimalisir.  
+
+org.gradle.configureondemand=true
+
+```
+**Rujukan :**
+ - [gradle daemon](https://docs.gradle.org/current/userguide/gradle_daemon.html)
+ - [jvm arguments](https://docs.gradle.org/current/userguide/userguide_single.html#sec:gradle_configuration_properties)
+ - [gradle parallel](http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:decoupled_projects)
+ - [gradle ConfigOnDemand](http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:configuration_on_demand)
 
 
 #### Build Gradle
 
-Kembali mengingat kenangan lolipop (API 21) tentu membawa ingatan kita pada ART, dimana jika minSdkVersion jauh dibawah itu maka akan di generate dex yang berjalan dikeduanya baik ART atau pendahulunya JVM. Tapi yang beda jika kita setting pada opsi API 21 (menggunakan ART) dimana salah satu fiturnya tidak memerlukan main dex tadi sebelum MultiDex.install(), hal ini meminimalisir waktu dalam pengecekan class pada main dex. Untuk melihat bagaimana itu terjadi dalam detail anda bisa baca [developer.android.com/multidex](http://developer.android.com/tools/building/multidex.html#dev-build)
+Seperti pembahasan sebelumnya mengenai parameter jvm di `gradle.properties` anda juga bisa meletakkanya pada file `build.gradle` seperti berikut.
+
+```gradle
+
+dexOptions {
+    javaMaxHeapSize "8g"
+    jumboMode true
+}
+
+```
+
+>8g = 8GB
+
+**Rujukan :** [google.github.io/android-gradle-dsl/current](http://google.github.io/android-gradle-dsl/current/)
+
+
+Kali ini kembali mengingat kenangan lolipop (API 21) tentu membawa ingatan kita pada ART, dimana jika minSdkVersion jauh dibawah itu maka akan di generate dex yang berjalan dikeduanya baik ART atau pendahulunya JVM. Tapi yang beda jika kita setting pada opsi API 21 (menggunakan ART) dimana salah satu fiturnya tidak memerlukan main dex tadi sebelum MultiDex.install(), hal ini tentu meminimalisir waktu dalam pengecekan class pada main dex. Aanda bisa membaca [developer.android.com/multidex](http://developer.android.com/tools/building/multidex.html#dev-build).
 
 Opsi tweak pada `build.gradle` menambahkan minSdkVersion.
 
