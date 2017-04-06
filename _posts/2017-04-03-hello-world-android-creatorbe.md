@@ -298,8 +298,8 @@ public class Main2Activity extends AppCompatActivity {
 
 Fiyuuuh >.< akhirnya selesai juga tugas saya :v . Alhamdulillah, semoga postingan sederhana ini bisa bermanfaat bagi mereka yang memulai belajar pemprograman android, setidak nya ini adalah jejak kecil untuk langkah yang besar.
 
+./creatorb
+
 **Resources**
  - [Check Project](https://github.com/CreatorB/HelloAndroidWorld)
  - [Download](https://github.com/CreatorB/HelloAndroidWorld/archive/master.zip)
-
-./creatorb
