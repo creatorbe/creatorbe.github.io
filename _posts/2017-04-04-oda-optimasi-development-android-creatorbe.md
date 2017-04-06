@@ -8,10 +8,11 @@ description: "Pembahasan bagaimana meningkatkan efisiensi koding dan performa ke
 
 Bukan tentang cerita dimasa lalu ataupun coretan kisah yang tertelan waktu, tapi sebuah catatan pribadi yang mudah dicari dan semoga tidak hanya bermanfaat bagi diri ini.
 
-`Efisiensi bukan dari seberapa banyak aksi, tapi keadaan dimana aktivitas yang tidak diperlukan berhenti`
+`optimasi bukan dari seberapa banyak aksi`
+`tapi keadaan dimana aktivitas yang tidak diperlukan berhenti`
 *~creatorbe*
 
-** TALK LESS, TWEAK MORE **
+**TALK LESS, TWEAK MORE**
 
 ## List
   - [Android Studio](#android-studio)
@@ -26,7 +27,7 @@ Bukan tentang cerita dimasa lalu ataupun coretan kisah yang tertelan waktu, tapi
 
 ### Android Studio
 
-Pada android studio secara default program bekerja pada mode online dikarenakan untuk memudahkan sinkronisasi dalam proyek (contoh : library) dan melakukan pengecekan berkala untuk melihat versi terbaru. Jika anda tidak memerlukan depensi terbaru anda bisa menonaktifkan fitur ini dan membiarkan gradle menggunakan cache dari library.
+Pada android studio secara default program bekerja pada mode online dikarenakan untuk memudahkan sinkronisasi dalam proyek (contoh : library) dan melakukan pengecekan berkala untuk melihat versi terbaru. Jika anda tidak memerlukan depensi terbaru anda bisa menonaktifkan fitur ini dan membiarkan gradle menggunakan cache dari library. Centang offline work dan pastikan menggunakan gradle yang ada di direktori lokal.
 
 ![android-offline-work](https://raw.githubusercontent.com/CreatorB/res/master/pic/improve-android-development-creatorbe.png)
 
