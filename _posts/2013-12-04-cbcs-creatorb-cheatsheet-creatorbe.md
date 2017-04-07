@@ -26,10 +26,6 @@ CBCS (creatorbe cheatsheet) a way to make my life easier.
 	- [Tables](#tables)
 	- [Text](#text)
 	- [Youtube Videos](#youtube-videos)
-- [irssi](#irssi)
-  - [Start](#start)
-  - [Cheat Chat](#cheat-chat)
-
 
 
 ## GitHub Markdown
@@ -421,20 +417,6 @@ Referencing a bug by #bugID in your git commit links it to the slip. For example
 ```
 [![image alt text ](https://raw.githubusercontent.com/CreatorB/res/master/pic/youtube-banner-creatorbe-medium.png)](https://www.youtube.com/channel/UCbyEh3nQ0H_7-P5ukcZyUvg)
 ```
-
-
-## irssi
-
-### Start
-
- * Type `irssi`
- * Join a server `irssi -c irc.freenode.net`
- * Specify a nickname `irssi -n nick`
-
-### Cheat Chat
-
-  [![irssi-cbcs](https://raw.githubusercontent.com/CreatorB/res/master/pic/cbcs-irssi-creatorb.png)](https://raw.githubusercontent.com/CreatorB/res/master/pic/cbcs-irssi-creatorb.png)
-
 
 
 ./creatorb
