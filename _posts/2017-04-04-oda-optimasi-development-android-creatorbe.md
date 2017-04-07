@@ -40,7 +40,7 @@ Berikut beberapa opsi tweak pada `gradle.properties` untuk penjelasan saya cantu
 
 ```gradle
 
-# Di beberapa versi gradle secara default, gradle dalam keadaan mati
+# Di beberapa versi gradle secara default, gradle daemon dalam keadaan mati
 # Tentu dengan menghidupkannya tidak perlu melakukan proses startup berulang kali
 
 org.gradle.daemon=true
@@ -62,10 +62,10 @@ org.gradle.configureondemand=true
 
 ```
 **Rujukan :**
- - [gradle daemon](https://docs.gradle.org/current/userguide/gradle_daemon.html)
- - [jvm arguments](https://docs.gradle.org/current/userguide/userguide_single.html#sec:gradle_configuration_properties)
- - [gradle parallel](http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:decoupled_projects)
- - [gradle ConfigOnDemand](http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:configuration_on_demand)
+ - [docs.gradle.org/current/userguide/gradle_daemon.html](https://docs.gradle.org/current/userguide/gradle_daemon.html)
+ - [docs.gradle.org/current/userguide/userguide_single.html](https://docs.gradle.org/current/userguide/userguide_single.html#sec:gradle_configuration_properties)
+ - [gradle.org/docs/current/userguide/multi_project_builds.html](http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:decoupled_projects)
+ - [gradle.org/docs/current/userguide/multi_project_builds.html](http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:configuration_on_demand)
 
 
 #### Build Gradle
@@ -86,7 +86,7 @@ dexOptions {
 **Rujukan :** [google.github.io/android-gradle-dsl/current](http://google.github.io/android-gradle-dsl/current/)
 
 
-Kali ini kembali mengingat kenangan lolipop (API 21) tentu membawa ingatan kita pada ART, dimana jika minSdkVersion jauh dibawah itu maka akan di generate dex yang berjalan dikeduanya baik ART atau pendahulunya JVM. Tapi yang beda jika kita setting pada opsi API 21 (menggunakan ART) dimana salah satu fiturnya tidak memerlukan main dex tadi sebelum MultiDex.install(), hal ini tentu meminimalisir waktu dalam pengecekan class pada main dex. Aanda bisa membaca [developer.android.com/multidex](http://developer.android.com/tools/building/multidex.html#dev-build).
+Kali ini kembali mengingat kenangan lolipop (API 21) tentu membawa ingatan kita pada ART, dimana jika minSdkVersion jauh dibawah itu maka akan di generate dex yang berjalan dikeduanya baik ART atau pendahulunya JVM. Tapi yang beda jika kita setting pada opsi API 21 (menggunakan ART) dimana salah satu fiturnya tidak memerlukan main dex tadi sebelum MultiDex.install(), hal ini tentu meminimalisir waktu dalam pengecekan class pada main dex. Anda bisa membaca [developer.android.com/multidex](http://developer.android.com/tools/building/multidex.html#dev-build).
 
 Opsi tweak pada `build.gradle` menambahkan minSdkVersion.
 
@@ -142,6 +142,7 @@ android {
 ### Coming Soon
 
 *i'm still working on awesome android development optimization, ...*
+
 *next time insyaallah i will post an another development tips, btw in the wild it isn't only about optimization but yours app on privation*
 
 

@@ -6,7 +6,7 @@ categories: [programming,android]
 description: "Quick Start Project for Android Developer. Pembahasan dasar bagi pemula tentang bagaimana cara membuat proyek android dengan Android Studio disertai beberapa penjelasan file dalam android project"
 ---
 
-Sepertinya halnya belajar bahasa pemprograman lain, pelajaran pertama adalah bagaimana menampilkan kalimat sapaan yang tidak asing lagi, hello world (in our side we say "Assalamualaikum World!"). Berikut tahapan pembuatan proyek baru android di android studio dimana ini di implementasikan di setiap anda membuat proyek android baru.
+Sepertinya halnya belajar bahasa pemprograman lain, pelajaran pertama adalah bagaimana menampilkan kalimat sapaan yang tidak asing lagi, hello world (in our side we say "Assalamualaikum World!"). Berikut tahapan pembuatan proyek baru android dimana ini bisa di implementasikan di setiap saat anda membuat proyek android baru.
 
 
 ### Cara Membuat Proyek Baru
@@ -60,6 +60,7 @@ Dalam pembahasan ini tidak hanya mencetak hello world tapi beberapa contoh kodin
 
 Pada dasarnya membuat tampilan user interface pada android sangatlah mudah, bisa menggunakan fitur drag and drop dimenu design xml dan disini yang akan saya bahas adalah versi text nya. Mungkin langsung saja kita akan melanjutkan untuk membuat program hello world android dengan beberapa pemprograman dasar, untuk memudahkan visualisasi, saya akan menjelaskan masing masing kode inline dalam bentuk komentar.
 
+**CHAT LESS, CODE MORE**
 
 *activity_main.xml*
 
@@ -296,7 +297,7 @@ public class Main2Activity extends AppCompatActivity {
 
 ```
 
-Fiyuuuh >.< akhirnya selesai juga tugas saya :v . Alhamdulillah, semoga postingan sederhana ini bisa bermanfaat bagi mereka yang memulai belajar pemprograman android, setidak nya ini adalah jejak kecil untuk langkah yang besar.
+Fiyuuuh >.< akhirnya selesai juga tugas saya :v . Alhamdulillah, semoga tulisan sederhana ini bisa bermanfaat bagi mereka yang memulai belajar pemprograman android, setidaknya ini adalah jejak kecil untuk memulai langkah yang besar.
 
 ./creatorb
 
