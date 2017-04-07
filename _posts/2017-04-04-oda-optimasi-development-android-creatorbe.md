@@ -8,7 +8,7 @@ description: "Pembahasan bagaimana meningkatkan efisiensi koding dan performa ke
 
 Bukan tentang cerita dimasa lalu ataupun coretan kisah yang tertelan waktu, tapi sebuah catatan pribadi yang mudah dicari dan semoga tidak hanya bermanfaat bagi diri ini.
 
-`Optimasi bukan dari seberapa banyak aksi`
+`Efisiensi bukan dari seberapa banyak aksi`
 `tapi keadaan dimana aktivitas yang tidak diperlukan berhenti`
 
 *~creatorbe*
