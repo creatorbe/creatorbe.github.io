@@ -6,7 +6,7 @@ categories: [programming,android,minds]
 description: "Pembahasan bagaimana meningkatkan efisiensi koding dan performa kerja dalam pengembangan aplikasi android"
 ---
 
-Bukan tentang cerita dimasa lalu ataupun coretan kisah yang tertelan waktu, tapi sebuah catatan pribadi yang mudah dicari dan semoga tidak hanya bermanfaat bagi diri ini.
+Bukan tentang cerita dimasa lalu ataupun coretan kisah yang tertelan waktu, tapi sebuah catatan pribadi yang ditulis untuk mudah dicari dan semoga tidak hanya bermanfaat bagi diri ini.
 
 `Efisiensi bukan dari seberapa banyak aksi`
 `tapi keadaan dimana aktivitas yang tidak diperlukan berhenti`
