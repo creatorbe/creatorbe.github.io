@@ -10,21 +10,22 @@ Hi! this is just an another cheat to make your life easier, especially for andro
 
 4 1st, It's short talk about [Android Debug Bridge (ADB)](https://developer.android.com/studio/command-line/adb.html), how it could be timesaver to take screenshot or even record your android screen by simple command. 
 
-<i class="icon-pencil"></i> **Screenshot**
+**Screenshot**
 ```bash
 adb shell screencap -p /directory/file.png
 ```
-<i class="icon-pencil"></i> **Screen Record**
+**Screen Record**
 
 ```bash
 adb shell screenrecord /directory/file.mp4
 ```
 ----------
- <i class="icon-cog"></i> **Improvement**
+
+### **Improvement**
  
 Think like a Programmer, Cool but ewwh there's little bit wasted, yeah yah yah still long syntax and take a time for renaming. If you run on unix machine (you should!) you can make it as aliases on ~/.bashrc .
 
-<i class="icon-file"></i> *.bashrc*
+*.bashrc*
 ```bash
 alias ansshot="adb shell screencap -p > ./ansshot-`date +%Y%m%d%H%M%S`.png"
 ```
@@ -43,7 +44,7 @@ Well, now you can call it easy by type `ansshot` or whatever word you put on ali
 ### <i class="icon-refresh"></i> **A Way**
 <i class="icon-folder-open"></i> *this is for the sake of simplicity*
 
-Yeah for you **who's man keep going, lazy doing**. Just take minutes for me to give you a simple bash (*don't worry no inject code, hahah!).
+Yeah for you **who's man keep going, lazy doing**. Just take minutes for me to give you a simple bash, feel free enjoy it (*don't worry no inject code, hahah!*).
 
 Here you go!
 
@@ -55,5 +56,5 @@ Bye! *See yah...*
 ./creatorb
 
 **<i class="icon-hdd"></i> Powerlink**
-	- [github.com/creatorb/ansshot](https://github.com/CreatorB/Ansshot)
-	- [gist - ADB screenshot real device](https://gist.github.com/CreatorB/1c15fa87af047395d0392409eaeca203)
+ - [github.com/creatorb/ansshot](https://github.com/CreatorB/Ansshot)
+ - [gist - ADB screenshot real device](https://gist.github.com/CreatorB/1c15fa87af047395d0392409eaeca203)
