@@ -21,9 +21,9 @@ adb shell screenrecord /directory/file.mp4
 ```
 ----------
 
-### **Improvement**
+## **Improvement**
  
-Think like a Programmer, Cool but ewwh there's little bit wasted, yeah yah yah still long syntax and take a time for renaming. If you run on unix machine (you should!) you can make it as aliases on ~/.bashrc .
+Think like a Programmer, Cool but not enough, ewwh there's little bit wasted, yeah yah yah still long syntax and take a time for renaming. If you run on unix machine (you should!) you can make it as aliases on ~/.bashrc .
 
 *.bashrc*
 ```bash
@@ -41,8 +41,9 @@ Well, now you can call it easy by type `ansshot` or whatever word you put on ali
 
 ----------
 
-### <i class="icon-refresh"></i> **A Way**
-<i class="icon-folder-open"></i> *this is for the sake of simplicity*
+## **A Way**
+
+**_this is for the sake of simplicity_**
 
 Yeah for you **who's man keep going, lazy doing**. Just take minutes for me to give you a simple bash, feel free enjoy it (*don't worry no inject code, hahah!*).
 
