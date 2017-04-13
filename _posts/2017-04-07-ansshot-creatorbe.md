@@ -2,7 +2,7 @@
 layout: post
 title: "Ansshot - Android Simple Screenshot"
 date: 2017-04-07 03:33:05 +0700
-categories: [programming,android,minds]
+categories: [en,programming,android,minds]
 description: "Take screenshot and record android screen as fast as possible through adb"
 ---
 
