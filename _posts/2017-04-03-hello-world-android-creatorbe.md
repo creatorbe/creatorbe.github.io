@@ -304,7 +304,7 @@ Kini anda sudah mendapat gambaran dan memahami tahap pembuatan hingga menjadi se
 Berikut beberapa link yang bisa menjadi rujukan anda, tentu saya tidak dapat menuliskan semua link blog history tempat saya belajar, tapi setidaknya ini bisa mewakili bagaimana saya mengawali cerita saya:
 
  - [Official Android Page](https://developer.android.com/training/index.html)
- - (Udacity)[https://www.udacity.com/course/ud853]
+ - [Udacity](https://www.udacity.com/course/ud853)
  - [StackOverflow](http://stackoverflow.com/documentation/android/topics)
  - [Tutorialspoint](http://www.tutorialspoint.com/android/)
  - irc #android-dev (irc.freenode.net)
