@@ -297,10 +297,32 @@ public class Main2Activity extends AppCompatActivity {
 
 ```
 
-Fiyuuuh >.< akhirnya selesai juga tugas saya :v . Alhamdulillah, semoga tulisan sederhana ini bisa bermanfaat bagi mereka yang memulai belajar pemprograman android, setidaknya ini adalah jejak kecil untuk memulai langkah yang besar.
+Dan kemudian coba jalankan pada emulator android anda atau real device menggunakan smartphone anda, seperti yang saya jelaskan pada pembahasan [instalasi android studio](https://creatorbe.github.io/programming/android/2017/03/29/cara-install-android-studio-creatorbe.html#testing-program). Saya sudah lampirkan untuk source code nya di panel bawah dari postingan ini.
+
+Kini anda sudah mendapat gambaran dan memahami tahap pembuatan hingga menjadi sebuah aplikasi android, jika anda tertarik silahkan anda kembangkan sendiri baik dengan memulai belajar menggunakan video, ebook atau web blog yang membahas perihal/tutorial android secara rinci, karena kemungkinan besar saya tidak akan membahas nya disini, tapi insyaallah saya akan melanjutkan lebih berfokus pada improvement development, pembahasan pokok atau lebih pada beberapa poin pentingnya saja.
+
+Berikut beberapa link yang bisa menjadi rujukan anda, tentu saya tidak dapat menuliskan semua link blog history tempat saya belajar, tapi setidaknya ini bisa mewakili bagaimana saya mengawali cerita saya:
+
+ - [Official Android Page](https://developer.android.com/training/index.html)
+ - (Udacity)[https://www.udacity.com/course/ud853]
+ - [StackOverflow](http://stackoverflow.com/documentation/android/topics)
+ - [Tutorialspoint](http://www.tutorialspoint.com/android/)
+ - irc #android-dev (irc.freenode.net)
+
+Dan berikut beberapa orang orang keren dalam bidang android development yang mungkin sudah berkali kali tulisannya menginspirasi beberapa developer di luar sana terutama saya pribadi.
+
+ - [Cyril Mottier](https://cyrilmottier.com/)
+ - [Mark Murphy - commonsware](https://commonsware.com/)
+ - [Jake Wharton](https://github.com/JakeWharton)
+ - [Ravi Tamada](http://www.androidhive.info/)
+ - [Vogella](http://www.vogella.com/tutorials/android.html)
+ 
+Waduh masih banyak yang belum saya sebutkan, yang jelas terimakasih untuk semua developer yang meluangkan waktu nya untuk menulis dan menyediakan resources yang begitu banyak dan berharga bagi pemula dan jikalau yang saya paparkan diatas kurang, anda bisa mengunjungi sebuah topik pembahasan di Quora mengenai topik [The Good Online Tutorial of Android Development](https://www.quora.com/What-are-the-good-online-tutorials-and-books-to-learn-Android-development) dan disini saya ingatkan lebih banyaklah koding daripada hanya menyimpan banyak referensi pemprograman tapi tak satupun yang di jalankan.
+
+Mungkin sekian, kick starter -nya. Alhamdulillah, semoga tulisan sederhana ini bisa bermanfaat bagi mereka yang memulai belajar pemprograman android, setidaknya ini adalah jejak kecil untuk memulai langkah yang besar.
 
 ./creatorb
 
-**Resources**
+**Source Code**
  - [Check Project](https://github.com/CreatorB/HelloAndroidWorld)
  - [Download](https://github.com/CreatorB/HelloAndroidWorld/archive/master.zip)
