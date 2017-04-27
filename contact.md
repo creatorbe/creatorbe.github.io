@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: page
 title: Contact
 permalink: /contact/
 ---
 
-Do you have a job or project? Send me your job or project specification and description, i hope to hear from you. If you have a question or query that is not answered elsewhere on this website, you also can feel free to contact me.
+<!-- Do you have a job or project? Send me your job or project specification and description, i hope to hear from you. If you have a question or query that is not answered elsewhere on this website, you also can feel free to contact me.
 
 Due to the amount of mail i'm receive, may take some time to get back to you. Thank you for your patience!
 
