@@ -8,7 +8,8 @@ Do you have a job or project? Send me your job or project specification and desc
 
 Due to the amount of mail i'm receive, may take some time to get back to you. Thank you for your patience!
 
-<form id="contactform" role="form">
+
+<form id="contactform" role="form" method="POST">
 	<div class="row">
 	<input type="hidden" name="_subject" value="CONTACT - CREATORBE LINKS" />
 		<div class="form-group col-lg-4">
