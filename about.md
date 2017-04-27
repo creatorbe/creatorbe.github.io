@@ -27,7 +27,7 @@ This is creatorb's personal blog's and developed with love! Mostly all contents 
 License
 =======
 
-* Content
+* **Content**
 
 Mostly visitor/reader will read an indonesian post and page, you can use any translator tool for read my page in yours language.
 
@@ -39,7 +39,7 @@ You are not allowed to redistribute our demo files directly (you are encouraged 
 
 If you plan to include our source code in site templates or to package it with other forms of digital content, meant for direct selling on online marketplaces (such as ThemeForest, PlayStore with Ads, etc), you are required to include a back-link to the article in question on creatorbe.github.io but if that free then you free.
 
-* Development
+* **Development**
 
 I already posted how this blog [work behind the scenes](https://creatorbe.github.io/en/git/minds/2015/10/26/gh-pages-creatorbe.html). For details documentations included source and license, you can directly check the project on my github repository [creatorbe.github.io](https://github.com/creatorbe/creatorbe.github.io)
 
