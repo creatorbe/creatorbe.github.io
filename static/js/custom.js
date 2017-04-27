@@ -25,7 +25,7 @@ $.validator.setDefaults({
 $("#contact-form").validate({
   submitHandler: function(form) {
     $.ajax({
-      url: "//formspree.io/austin.zentz@gmail.com", 
+      url: "//formspree.io/creatorb45@gmail.com", 
       method: "POST",
       data: {
         name: $(form).find("input[name='name']").val(),
