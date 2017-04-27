@@ -44,7 +44,7 @@ urls:
       url: /projects/
     - text: Categories
       url: /category/android
-    - text: XML Feed
+    - text: Sitemap
       url: /feed.xml
 
 url: "https://creatorbe.github.io"
