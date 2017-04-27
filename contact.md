@@ -40,4 +40,4 @@ $('form#contact_form').validate({
     return false;
   }
 });
-<script>
+</script>
