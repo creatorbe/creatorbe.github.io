@@ -62,6 +62,7 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
  			<div class="form-group">
  				<label for="email">Email</label>
  				<input class="form-control" type="email" name="_replyto" required placeholder="email@address.com">
+ 				<input type="hidden" name="_cc" value="id.hasanbasri@gmail.com" />
  			</div>
  			<div class="form-group">
  				<label for="message">Message</label>
