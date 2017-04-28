@@ -1,14 +1,13 @@
-## :point_up::neckbeard: creatorbe links
+:point_up::neckbeard: creatorbe links
+---
 
-Github Pages Template for personal blog.
+An Lightweight Github Pages Template, whose goal is keep it simple but credible.
 
 > This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll) and [master repository](https://github.com/agusmakmun/agusmakmun.github.io).
-> Included search posts using [Super Search](https://github.com/chinchang/super-search), any hack and improvements to get better performances.
+> Included search posts using [Super Search](https://github.com/chinchang/super-search) and any hack to improvements for get better performances.
 
-### Whatchout
-* [https://creatorbe.github.io](https://creatorbe.github.io)
 
-#### Features
+### Features
 
 * Sitemap and XML Feed
 * Paginations in homepage
@@ -29,12 +28,14 @@ Github Pages Template for personal blog.
 * POPUP Cookie used jQuery plugin [EU Cookie Law popups](https://github.com/wimagguc/jquery-eu-cookie-law-popup)
 * ... More Coming! *We Are Still Working add Better Improvement's* :)
 
+
 ### Install & Configuration
 
 1. Fork this repository
 2. Edit site settings inside file of `_config.yml`
 3. Edit your projects at file of `projects.md`, `_data/projects.json` and inside path of `_project/` _(for detail project)_.
 4. Edit about yourself inside file of `about.md`
+
 
 ### How to Use?
 
@@ -71,6 +72,11 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 # your content post with markdown syntax goes here...
 ```
 
+
+### Whatchout Demo
+* [https://creatorbe.github.io](https://creatorbe.github.io)
+
+
 ### Contributing
 
 So you want to contribute to the project. **THIS IS GREAT NEWS!**  Seriously. We're
@@ -82,8 +88,10 @@ all pretty happy about this. Here's simple ways to get started:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-
 Any questions or bug let me know about that by throw me an [issues](https://github.com/creatorbe/creatorbe.github.io/issues)
 
 
-`./creatorb`
+### License
+
+The creatorbe links project is under [MIT License](https://github.com/creatorbe/creatorbe.github.io/blob/master/LICENSE) except for a few portions of the code. Third-party used by creatorbe links are under their own licenses, refer to those resources for details on the license they use.
+
