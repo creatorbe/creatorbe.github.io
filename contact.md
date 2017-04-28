@@ -4,10 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-<!-- Do you have a job or project? Send me your job or project specification and description, i hope to hear from you. If you have a question or query that is not answered elsewhere on this website, you also can feel free to contact me.
+Do you have a job or project? Send me your job or project specification and description, i hope to hear from you. If you have a question or query that is not answered elsewhere on this website, you also can feel free to contact me.
 
 Due to the amount of mail i'm receive, may take some time to get back to you. Thank you for your patience!
 
+<!-- 
 <meta name="referrer" content="origin">
 <form id="contactform" role="form" method="POST">
 	<div class="row">
@@ -72,6 +73,7 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
 
  	</div>
  </div> -->
+ <meta name="referrer" content="origin">
  <form method="POST" action="http://formspree.io/creatorb45@gmail.com">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea>
