@@ -30,6 +30,7 @@ $("#contact-form").validate({
       data: {
         name: $(form).find("input[name='name']").val(),
         _replyto: $(form).find("input[name='_replyto']").val(),
+        _subject: $(form).find("input[name='_subject']").val(),
         message: $(form).find("textarea[name='message']").val()
       },
       dataType: "json",

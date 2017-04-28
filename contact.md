@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Do you have a job or project? Send me your job or project specification and description, i hope to hear from you. If you have a question or query that is not answered elsewhere on this website, you also can feel free to contact me.
+Do you have a job or project? Send me your job or project specification and description, i hope to hear from you. If you have a question or query that is not answered elsewhere on this website or just interested in talking? Just fill out the form below with a brief message, and I'll get back to you soon.
 
 Due to the amount of mail i'm receive, may take some time to get back to you. Thank you for your patience!
 
@@ -40,13 +40,13 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
 </script>
 
  -->
-<!-- <div class="row">
+<meta name="referrer" content="origin">
+<div class="row">
  	<div class="col-lg-6 col-lg-offset-3">
- 		<p>Interested in talking? Just fill out the form below with a brief message, and I'll get back to you soon.</p>
 
  		<div id="submit-success" class="alert alert-success alert-dismissible collapse" role="alert">
  			<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
- 			Message received! I'll be in touch.
+ 			Your message received! I'll be in touch soon.
  		</div>
 
  		<div id="submit-errors" class="alert alert-danger alert-dismissible collapse" role="alert">
@@ -62,7 +62,7 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
  			<div class="form-group">
  				<label for="email">Email</label>
  				<input class="form-control" type="email" name="_replyto" required placeholder="email@address.com">
- 				<input type="hidden" name="_cc" value="id.hasanbasri@gmail.com" />
+ 				<input type="hidden" name="_subject" value="CREATORBE LINKS" />
  			</div>
  			<div class="form-group">
  				<label for="message">Message</label>
@@ -72,10 +72,11 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
  		</form>
 
  	</div>
- </div> -->
- <meta name="referrer" content="origin">
+ </div>
+
+<!--  <meta name="referrer" content="origin">
  <form method="POST" action="http://formspree.io/creatorb45@gmail.com">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea>
   <button type="submit">Send</button>
-</form>
+</form> -->
