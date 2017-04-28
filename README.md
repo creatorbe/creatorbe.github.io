@@ -1,11 +1,10 @@
-
-[![Awesome](https://creatorbe.github.io)](https://github.com/sindresorhus/awesome)
-[![Open Source Love](https://creatorbe.github.io)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/creatorbe)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/creatorb)
 
 :point_up::neckbeard: creatorbe links
----
+=====================================
 
-*"An Lightweight Github Pages Template, whose goal is keep it simple but credible."*
+**_An Lightweight Github Pages Template, whose goal is keep it simple but credible._**
 
 > This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll) and [master repository](https://github.com/agusmakmun/agusmakmun.github.io).
 > Included search posts using [Super Search](https://github.com/chinchang/super-search) and any hack to improvements for get better performances.
