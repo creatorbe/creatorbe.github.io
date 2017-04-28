@@ -25,7 +25,9 @@ Hi folks... here's another links to get in touch with me, Hasan Basri aka creato
 * [CV template](https://github.com/creatorbe/creatorbe.github.io/blob/master/cv.html)
 * [Signature](https://github.com/creatorbe/creatorbe.github.io/blob/master/_includes/signature.html)
 * Google Translate Button
-* [Custom 404 page](https://github.com/creatorbe/creatorbe.github.io/blob/master/404.html) 
+* [Custom 404 page](https://github.com/creatorbe/creatorbe.github.io/blob/master/404.html)
+* POPUP Cookie used jQuery plugin [EU Cookie Law popups](https://github.com/wimagguc/jquery-eu-cookie-law-popup)
+* ... More Coming! *We Are Still Working add Better Improvement's* :)
 
 ### Install & Configuration
 
