@@ -38,14 +38,14 @@ share:
 urls:
     - text: About
       url: /about/
-    - text: CV
-      url: /cv.html
-    - text: Projects
-      url: /projects/
+    - text: Contact
+      url: /contact/
     - text: Categories
       url: /category/android
-    - text: Sitemap
-      url: /feed.xml
+    - text: Projects
+      url: /projects/
+    - text: CV
+      url: /cv.html
 
 url: "https://creatorbe.github.io"
 baseurl: ""
