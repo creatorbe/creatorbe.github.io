@@ -5,7 +5,7 @@
 :point_up::neckbeard: creatorbe links
 ---
 
-An Lightweight Github Pages Template, whose goal is keep it simple but credible.
+*"An Lightweight Github Pages Template, whose goal is keep it simple but credible."*
 
 > This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll) and [master repository](https://github.com/agusmakmun/agusmakmun.github.io).
 > Included search posts using [Super Search](https://github.com/chinchang/super-search) and any hack to improvements for get better performances.
