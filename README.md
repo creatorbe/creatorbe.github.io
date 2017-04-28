@@ -1,9 +1,9 @@
 ## :point_up::neckbeard: creatorbe links
 
-Github Pages Template for personal blog's.
+Github Pages Template for personal blog.
 
-> This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll) and master repository bottom in doc,
-> included search posts using [Super Search](https://github.com/chinchang/super-search) any hack and improvements to get better performances.
+> This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll) and [master repository](https://github.com/agusmakmun/agusmakmun.github.io).
+> Included search posts using [Super Search](https://github.com/chinchang/super-search), any hack and improvements to get better performances.
 
 ### Whatchout
 * [https://creatorbe.github.io](https://creatorbe.github.io)
@@ -85,8 +85,5 @@ all pretty happy about this. Here's simple ways to get started:
 
 Any questions or bug let me know about that by throw me an [issues](https://github.com/creatorbe/creatorbe.github.io/issues)
 
-### Master Repository
-
-You can also check how it started on repository [master](https://github.com/agusmakmun/agusmakmun.github.io)
 
 `./creatorb`
