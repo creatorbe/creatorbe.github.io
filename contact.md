@@ -12,7 +12,7 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
 
  
 <meta name="referrer" content="origin">
-<form id="contactform" role="form" method="POST">
+ <form method="POST" action="http://formspree.io/creatorb45@gmail.com">
 	<div class="row">
 	<input type="hidden" name="_subject" value="CONTACT - CREATORBE LINKS" />
 		<div class="form-group col-lg-4">
@@ -24,7 +24,6 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
 			<input id="email" type="email" name="_replyto" class="form-control">
 			<input type="hidden" name="_subject" value="CREATORBE LINKS" />
 		</div>
-		<input type="text" name="_gotcha" style="display:none" />
 		<div class="clearfix"></div>
 		<div class="form-group col-lg-12">
 			<label>Message</label>
@@ -32,16 +31,12 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
 			<input type="text" name="_gotcha" style="display:none" />
 		</div>
 		<div class="form-group col-lg-12">
-			<input type="submit" value="Send">
+ 			<button type="submit">Send</button>
 		</div>
 	</div>
 </form>
-<script>
-    var contactform =  document.getElementById('contactform');
-    contactform.setAttribute('action', '//formspree.io/' + 'creatorb45' + '@' + 'gmail' + '.' + 'com');
-</script>
 
- <meta name="referrer" content="origin">
+<!--  <meta name="referrer" content="origin">
  <form method="POST" action="http://formspree.io/creatorb45@gmail.com">
  	<div class="row">
  		<div class="form-group col-lg-4">
@@ -59,4 +54,4 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
  			<button type="submit">Send</button>
  		</div>
  	</div>
- </form>
+ </form> -->
