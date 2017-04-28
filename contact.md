@@ -39,9 +39,8 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
 </script>
 
  -->
-<div class="row">
- 	<!-- <div class="col-lg-6 col-lg-offset-3"> -->
- 	 	<div class="col-lg-12">
+<!-- <div class="row">
+ 	<div class="col-lg-6 col-lg-offset-3">
  		<p>Interested in talking? Just fill out the form below with a brief message, and I'll get back to you soon.</p>
 
  		<div id="submit-success" class="alert alert-success alert-dismissible collapse" role="alert">
@@ -72,4 +71,9 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
  		</form>
 
  	</div>
- </div>
+ </div> -->
+ <form method="POST" action="http://formspree.io/creatorb45@gmail.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>
