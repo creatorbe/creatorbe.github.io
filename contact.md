@@ -36,23 +36,3 @@ Due to the amount of mail i'm receive, may take some time to get back to you. Th
 		</div>
 	</div>
 </form>
-
-<!--  <meta name="referrer" content="origin">
- <form method="POST" action="http://formspree.io/creatorb45@gmail.com">
- 	<div class="row">
- 		<div class="form-group col-lg-4">
- 			<input type="text" name="name" placeholder="Your name">
- 		</div>
- 		<div class="form-group col-lg-4">
- 			<input type="email" name="email" placeholder="Your email">
- 			<input type="hidden" name="_subject" value="CREATORBE LINKS" />
- 		</div>
- 		<div class="form-group col-lg-12">
- 			<textarea name="message" placeholder="Your message"></textarea>
- 			<input type="text" name="_gotcha" style="display:none" />
- 		</div>
- 		<div class="form-group col-lg-12">
- 			<button type="submit">Send</button>
- 		</div>
- 	</div>
- </form> -->
