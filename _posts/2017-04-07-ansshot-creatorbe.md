@@ -27,7 +27,7 @@ Think like a Programmer, Cool but not enough, ewwh there's little bit wasted, ye
 
 *.bashrc*
 ```bash
-alias ansshot="adb shell screencap -p > ./ansshot-`date +%Y%m%d%H%M%S`.png"
+alias ansshot="adb shell screencap -p | perl -pe 's/\x0D\x0A/\x0A/g' > ./ansshot-`date +%Y%m%d%H%M%S`.png"
 ```
 
 Well, now you can call it easy by type `ansshot` or whatever word you put on aliases, it will take screenshot and automatically save in current directory as png file with format name ansshot - date time taken.
