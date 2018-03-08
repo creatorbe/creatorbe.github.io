@@ -49,7 +49,9 @@ Well, dengan command dibawah ini anda bisa install postman sekaligus update post
 bash <(wget -O - https://raw.githubusercontent.com/CreatorB/Postman/master/apt-get-install-postman.sh)
 ```
 Berikut SS (screenshot) instalasi postman via apt-get-install-postman diatas. 
+
 ![creatorb-postman](https://raw.githubusercontent.com/CreatorB/Postman/master/creatorbe-postman.png)
+
 Sekian, semoga bermanfaat.
 
 ###  Related link
