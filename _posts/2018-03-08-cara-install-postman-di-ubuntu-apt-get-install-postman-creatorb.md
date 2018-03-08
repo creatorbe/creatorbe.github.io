@@ -42,7 +42,9 @@ EOL
 Selesai, kini anda bisa memulai menggunakan postman.
 
 ## apt-get install postman
-Yup, tentu konten ini yang anda tunggu ;p (_so sorry, actually it isn't apt-get install postman but this is an apt-get install postman_ :D )  tutorial instalasi postman yang saya jabarkan diatas insyaallah secara ijma `linux`us`er` sepakat itu mudah, namun disini saya hanya ingin sedikit membantu anda dalam menghemat waktu (_**العصر** : Al-'Asr ~ QS:103, Allah azza wa jalla tuhan pencipta waktu bersumpah pada ciptaannya yakni waktu, dengan kata lain hendaknya anda memperhatikan waktu anda_) dan ini lebih handy ~ mudah dalam menangani apabila anda mendapat notif update dari postman anda, cukup mengulang command ini untuk update postman anda.
+
+
+Yup, tentu konten ini yang anda tunggu ;p (_so sorry, actually it isn't apt-get install postman but this is an apt-get install postman_ :D )  tutorial instalasi postman yang saya jabarkan diatas insyaallah secara ijma `linux`us`er` sepakat itu mudah, namun disini saya hanya ingin sedikit membantu anda dalam menghemat waktu (**العصر** : _Al-'Asr ~ QS:103, Allah azza wa jalla tuhan pencipta waktu bersumpah pada ciptaannya yakni waktu, dengan kata lain waktu itu penting dan hendaknya anda memperhatikannya_) maka dari itu berhubung sampai tutorial ini ditulis belum ada ppa yang available untuk postman sementara ini alternatif yang bisa digunakan menggunakan bash script untuk lebih handy ~ mudah dalam menangani apabila anda mendapat notif update dari postman, cukup mengeksekusi ulang command ini untuk update postman anda.
 
 Well, dengan command dibawah ini anda bisa install postman sekaligus update postman apabila terdapat notif update.
 ```shell
@@ -55,4 +57,4 @@ Berikut SS (screenshot) instalasi postman via apt-get-install-postman diatas.
 Sekian, semoga bermanfaat.
 
 ###  Related link
-Github Repo apt-get install postman [github.com/creatorb/postman](https://github.com/CreatorB/Postman/blob/master/README.md)
+Github Repo apt-get install postman [github.com/creatorb/postman](https://github.com/CreatorB/Postman)
