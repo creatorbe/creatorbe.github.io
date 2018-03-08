@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cara Install Postman di Ubuntu"
-date: 2017-03-30 13:16:23 +0700
+date: 2018-03-30 17:42:13 +0700
 categories: [programming]
 description: "Cara install postman native di Ubuntu via an apt-get install postman."
 ---
