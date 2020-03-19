@@ -107,7 +107,9 @@ Risalah ini dibuat (*dari berbagai rujukan sumber yang shahih (valid) insyaallah
 Aku memohon kepada Allah ta’ala dengan nama-namaNya yang baik dan sifat-sifat-Nya yang tinggi, agar Dia berkenan menjadikanku dan engkau wahai saudaraku yang aku cinta karena Allah, menjadi termasuk orang-orang yang meniti sunnah, berpegang teguh kepadanya dalam perkataan dan perbuatan, serta dalam seluruh keadaan. Sesungguhnya Dia kuasa untuk itu. Shalawat, salam dan keberkahan mudah-mudahan tercurah kepada Nabi kita Muhammad Shallallahu’alaihi Wasallam, kepada keluarganya, para sahabatnya dan orang-orang yang mengikutnya hingga hari akhir zaman. *-Wa akhiru da'wana anil hamdulillahi rabbil alamin-*
 
 *Semoga ikhlas karena Allah, Robbana taqobbal minna innaka antas sami'ul 'alim*
+
 *al faqir ila Rabbihi*
+
 Curah Jeru Tengah, Situbondo
 
 ### Hadiah
