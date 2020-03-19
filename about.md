@@ -17,7 +17,7 @@ Al-Faqir who Allah has given his love for study islam and computer software (al-
 Blog's
 ======
 
-This is creatorb's personal blog's and developed with love! Mostly all contents here based on my life story, that's mean we will talk about software development, muslim lifestyle, and another my lifehack experiences. LOL! imma not an expert, but i want to be. Insyaallah i will focussing to rest in here, of course on the wild i have so many blogs, because like i said before i really love explore anything what i'm interested but so sorry i can't explains everything here. I know and absolutely understanding `Knowledge is Free` it's my way too, but `Sometimes you don't need to tell everything you know`.
+This is creatorb's personal blog's and developed with love! Mostly all contents here based on my life story, that's mean we will talk about software development, muslim lifestyle, and another my lifehack experiences.
 
 
 License
