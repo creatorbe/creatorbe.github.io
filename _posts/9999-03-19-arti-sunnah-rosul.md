@@ -108,7 +108,7 @@ Aku memohon kepada Allah ta’ala dengan nama-namaNya yang baik dan sifat-sifat-
 
 *Semoga ikhlas karena Allah, Robbana taqobbal minna innaka antas sami'ul 'alim*
 <br/><br/>
-*al faqir ila Rabbihi*
+*Al-Faqir 'ila Maghfirah Robbihi*
 <br/>
 Curah Jeru Tengah, Situbondo
 
