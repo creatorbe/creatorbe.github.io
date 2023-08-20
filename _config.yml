@@ -1,9 +1,9 @@
 title: creatorbe links
 subtitle: A way to convert something into a readable string
-description: Hasan Basri aka creatorb/creatorbe an indonesian muslim programmer, writing about how he life as android developer in indonesia with islamic religion.
+description: Hasan Basri aka creatorb/creatorbe an indonesian muslim programmer, who wrote about islam and programming.
 author: creatorbe
 github: https://github.com/creatorbe
-about: Muslim Programmer, focused in Android Development.
+about: Muslim Programmer
 disqus_shortname: creatorbe
 google_analytics: UA-96556810-1
 avatar_url: /static/img/avatar.jpg
@@ -45,7 +45,8 @@ urls:
     - text: Projects
       url: /projects/
     - text: CV
-      url: /cv.html
+      # url: /cv.html
+      url: https://drive.google.com/drive/folders/1oveQMGdYK6KNpTYmZ5OlkjvRroiQ9Qx4
 
 url: "https://creatorbe.github.io"
 baseurl: ""

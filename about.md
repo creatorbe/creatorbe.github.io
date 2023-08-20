@@ -11,7 +11,7 @@ permalink: /about/
 
 codename : `creatorb` [creatorbe]
 
-Al-Faqir who Allah has given his love for study islam and computer software (al-Faqir yang Allah karuniakan rasa suka dalam mempelajari islam dan perangkat lunak komputer).
+al-Faqir yang Allah karuniakan rasa suka dalam mempelajari islam dan perangkat lunak komputer.
 
 
 Blog's
