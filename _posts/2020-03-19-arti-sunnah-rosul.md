@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apa itu sunnah Rosul?"
-date: 9999-03-19 13:06:42 +0700
+date: 2020-03-19 13:06:42 +0700
 categories: [islam]
 description: "Dikala dunia tersibukkan dengan corona, sibukkanlah diri juga dengan sunnah"
 ---
