@@ -8,18 +8,18 @@ description: "Rangkuman materi Redhat Academy Sibermu Bab 1"
 
 بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ
 
-اَلْحَمْدُ للّٰهِ رَبِّ العَالَمِيْنَ والعاقبة للمتقين،
+اَلْحَمْدُ للّٰهِ رَبِّ العَالَمِيْنَ والعاقبة للمتقين
 
- وَالصَّلاَةُ وَالسَّلَامُ عَلىَ إمام الْمُرْسَلِيْنَ،نبيين مُحَمَّدٍ وَعَلَى اٰلِهِ وَصَحْبِهِ اَجْمَعِيْنَ،
+ وَالصَّلاَةُ وَالسَّلَامُ عَلىَ إمام الْمُرْسَلِيْنَ،نبيين مُحَمَّدٍ وَعَلَى اٰلِهِ وَصَحْبِهِ اَجْمَعِيْنَ
  
-  اَمَّا بَعْدُ.
+  اَمَّا بَعْدُ
  
 
 **Hai**
 
 Sebelumnya salam kenal, saya Hasan Basri asal situbondo jawatimur, dari prodi informatika sibermu angkatan 5. Bagi kalian yang belum tau apa SiberMu yuk kunjungi <a href="https://sibermu.ac.id/" target="_blank">Kampus Virtual SiberMu</a>.
 
-Teruntuk sesama angkatan salam kompak selalu dan bagi kakak angkatan dan segenap dosen, mohon bimbingannya (/\).
+Teruntuk sesama angkatan salam kompak selalu dan bagi kakak angkatan dan segenap dosen, mohon bimbingannya (/|).
 Berikut rangkuman dari materi Redhat Academy, sekedar catatan sederhana, semoga bermanfaat dan sengaja tidak saya tulis lengkap khawatir copyright, tapi insyaAllah sudah mencakup inti materi, saran dan kritik membangun saya terima dengan sangat senang hati <3 barakallahufiik.
 
 >
@@ -37,7 +37,7 @@ Berikut rangkuman dari materi Redhat Academy, sekedar catatan sederhana, semoga 
 
 ## Linux
 
-Linux adalah kernel opensource, kernel adalah core / inti, antar muka pertama untuk mengelolah perangkat keras dengan mengakses CPU, Memory, disk I/O, networking melalui sistem operasi. Sistem operasi / operating system (OS) sendiri adalah perangkat lunak (software) yang bertugas menangani operasi dasar sistem dan manajemen perangkat keras (hardware), banyak sistem operasi yang sering kita pakai misal Windows, atau di laptop macbook memakai OS MacOS, di iphone memakai OS iOS, atau di smartphone lain memakai OS Android. Linux pertama kali dikembangkan oleh Linus Torvalds pada tahun 1991. Sebenarnya Linux dikembangkan untuk komputer pribadi berarsitektur Intel x86, tetapi seiring waktu Linux telah diportasi ke berbagai arsitektur, bahkan lebih banyak daripada sistem operasi lainnya.
+Linux adalah kernel opensource, kernel adalah core / inti, antar muka pertama yang mengontrol sistem dengan mengakses CPU, Memory, disk I/O, networking melalui sistem operasi. Sistem operasi / operating system (OS) sendiri adalah perangkat lunak (software) yang bertugas menangani operasi dasar sistem dan manajemen perangkat keras (hardware), banyak sistem operasi yang sering kita pakai misal Windows, atau di laptop macbook memakai OS MacOS, di iphone memakai OS iOS, atau di smartphone lain memakai OS Android. Linux pertama kali dikembangkan oleh Linus Torvalds pada tahun 1991. Sebenarnya Linux dikembangkan untuk komputer pribadi berarsitektur Intel x86, tetapi seiring waktu Linux telah diporting ke berbagai arsitektur, bahkan lebih banyak daripada sistem operasi lainnya.
 
 ### Kenapa harus belajar Linux?
 
@@ -53,7 +53,7 @@ Linux adalah kernel opensource, kernel adalah core / inti, antar muka pertama un
 
 ### Apa bagusnya memakai Linux?
 
-- Karena Opensource, maksudnya kita bisa mengakses semuanya (source code, dll) kita bisa mengetahui cara kerja sistemnya, bisa memodifikasi dan membagikan secara gratis untuk dipakai bersama, termasuk tujuan opensource untuk lebih mudah dan cepat dalam pengembangan.
+- Karena Opensource, maksudnya kita bisa mengakses semuanya (source code, dll) kita bisa mengetahui cara kerja sistemnya, bisa memodifikasi dan membagikan secara gratis untuk dipakai bersama, termasuk tujuan opensource untuk lebih mudah dan cepat dalam pengembangan software itu sendiri.
 - Menyediakan command-line interface / CLI (bisa menggakses komputer dengan interface / antarmuka tampilan berbasis text saja) untuk kemudahan akses dan powerfull scripting (interpreter menerjemahkannya sehingga dipahami kernel, bisa dipakai untuk otomatisasi pekerjaan, backup, monitoring, dll)
 - Karena Modular, bisa dengan mudah memperbaharui, meningkatkan, mengganti, menghapus semua komponen dalam sistem operasi.
 
@@ -93,11 +93,11 @@ Linux adalah kernel opensource, kernel adalah core / inti, antar muka pertama un
 
 ### Fedora Rawhide - Fedora | CentOS Stream - Red Hat Enterprise Linux / RHEL 
 
-- Distro Linux komersil yang di distribusikan oleh perusahaan Red Hat.
+- RHEL, Distro Linux komersil yang di distribusikan oleh perusahaan Red Hat.
 - Red Hat mendukung penuh dalam pengembangannya demi mendapatkan software berkualitas untuk semua orang.
 - Red Hat mensponsori fedora (salah satu distro Linux) dan mengintegrasikan menjadi proyek opensource yang berbasis komunitas dan fedora menjadi laboratorium pengembangan untuk fitur yang nantinya akan masuk pada CentOS dan produk RHEL.
 - CentOS adalah upstream dari RHEL, dimana source nya dari Fedora.
-- Red Hat berupaya menjaga stream CentOS tetap stabil untuk siap digunakan dalam jangka waktu panjang, terstandart dan mengintegrasikan pada RHEL dalam keadaan siap produksi.
+- Red Hat berupaya menjaga CentOS Stream tetap stabil untuk siap digunakan dalam jangka waktu panjang, terstandart dan mengintegrasikan pada RHEL dalam keadaan siap produksi.
 - Pembaharuan RHEL bersifat opensource dan semua orang bisa berkontribusi didalamnya, patch akan di kirim ke CentOS Stream dan akan segera di integrasikan ke RHEL.
 - RHEL Edge, varian RHEL yang digunakan untuk membuat image OS untuk keperluan Edge Computing (lokalisasi cloud computing biasanya untuk keperluan perangkat IoT)
 - Red Hat CoreOS (RHCOS), bukan OS yang berdiri sendiri tapi image OS pada host dalam container, termasuk bagian dari Red Hat OpenShift Container Platform (RHOCP), terkait detail mengenai ini bisa mempelajari OpenShift dan containers.
@@ -108,18 +108,18 @@ Linux adalah kernel opensource, kernel adalah core / inti, antar muka pertama un
 
 ## Beberapa alternatif untuk mendapatkan RHEL
 
-- RHEL varian evaluation bisa download di <a href="https://access.redhat.com/products/red-hat-enterprise-linux/evaluation" target="_blank">https://access.redhat.com/products/red-hat-enterprise-linux/evaluation</a> untuk mengakses nya bisa gratis mendaftar akun di <a href="https://access.redhat.com/" target="_blank">https://access.redhat.com/</a>. Product akan menerima update dan dukungan dari Red Hat dalam periode tertentu, dan jika periode habis tetap masih bisa dipakai hanya saja tanpa dukugan Red Hat lagi.
-- RHEL Developer Subsription, varian RHEL yang bisa download di <a href="https://developer.redhat.com/" target="_blank">https://developer.redhat.com/</a>, catatan : jangan menggunakan subscription ini jika sudah memiliki subscription organisasi tertentu, karena Developer Subcription ditujukan untuk perseorangan yang tertarik menambah pengalaman untuk mencobanya.
-- Penyedia komputasi awan (Cloud Providers) terkemuka seperti Amazon Web Services, Google Cloud Platform, Microsoft Azure, menawarkan RHEL dengan subscription Red Hat Cloud Access service.
+- RHEL varian evaluation bisa download di <a href="https://access.redhat.com/products/red-hat-enterprise-linux/evaluation" target="_blank">https://access.redhat.com/products/red-hat-enterprise-linux/evaluation</a> untuk mengakses nya bisa gratis mendaftar akun di <a href="https://access.redhat.com/" target="_blank">https://access.redhat.com/</a>. Produk ini akan menerima update dan dukungan dari Red Hat dalam periode tertentu, dan jika periode habis tetap masih bisa dipakai hanya saja tanpa dukugan Red Hat lagi.
+- RHEL Developer Subsription, varian RHEL yang bisa download di <a href="https://developer.redhat.com/" target="_blank">https://developer.redhat.com/</a>, catatan : Ada himbauan dari Red Hat untuk tidak menggunakan varian subscription ini jika sudah memiliki subscription organisasi tertentu, karena Developer Subcription ditujukan untuk perseorangan yang tertarik untuk mencobanya.
+- Penyedia komputasi awan (Cloud Providers) terkemuka seperti Amazon Web Services, Google Cloud Platform, Microsoft Azure, pun menawarkan RHEL dengan subscription Red Hat Cloud Access service.
 - Fedora Linux dan beberapa turunannya bisa dipakai gratis, bisa download di <a href="https://getfedora.org" target="_blank">https://getfedora.org</a>.
 - EPEL / EPEL Next = Extra Packages for Enterprise Linux (EPEL) menyediakan berbagai package turunan dari Fedora atau sudah masuk CentOS tapi belum tersedia di RHEL. Silahkan baca lebih detail di <a href="https://docs.fedoraproject.org/en-US/epel/" target="_blank">https://docs.fedoraproject.org/en-US/epel/</a>
 - CentOS Stream bisa download di <a href="https://www.centos.org/centos-stream/" target="_blank">https://www.centos.org/centos-stream/</a>.
 
 ## Rangkuman
 
-- Perangkat lunak (software) Open source adalah perangkat lunak yang source code nya bisa diakses semua orang, dipakai untuk belajar, memodifikasi dan dibagikan ulang.
-- Linux Distribution / Distro, ialah sistem operasi yang dibangun menggunakan Linux Kernel dan didukung aplikasi dan library.
-- Perusahaan Red Hat berpartisipasi dalam mendukung dan berkontribusi pada proyek Open source, mensponsori dan mengintegrasikannya menjadi distribusi berbasis komunitas kemudian menstabilkannya agar dapat ditawarkan sebagai produk komersil yang enterprise-ready (suatu sistem teruji yang digunakan untuk meningkatkan aktivitas operasional perusahaan bekerja secara efektif).
+- Perangkat lunak (software) Open source adalah perangkat lunak yang source code nya bisa diakses semua orang, dipelajari, dimodifikasi dan dibagikan ulang.
+- Linux Distribution / Distro, ialah sistem operasi yang dibangun menggunakan Linux Kernel dengan dukungan aplikasi dan library.
+- Perusahaan Red Hat berpartisipasi dan berkontribusi pada proyek Open source, mensponsori dan mengintegrasikannya menjadi distribusi berbasis komunitas kemudian menstabilkannya agar dapat ditawarkan sebagai produk komersil yang enterprise-ready (suatu sistem teruji yang digunakan untuk meningkatkan aktivitas operasional perusahaan bekerja secara efektif).
 - Red Hat Enterprise Linux (RHEL) adalah produk opensource yang enterprise-ready dengan dukungan berbayar yang ditawarkan oleh perusahaan Red Hat, 
 - Red Hat Developer Subscription versi gratis dibuat untuk mempermudah seseorang untuk mendapat sumber belajar, informasi, termasuk Developer Subscription sendiri dan produk produk Red Hat lainnya.
 
@@ -137,4 +137,4 @@ _Al-Faqiir ilaa Rahmatillahi Ta'ala_
 
 ✎ Hasan Basri
 
-🞊 Belakang pemda situbondo - Selasa, 19 Shofar 1445 
+◉ Belakang pemda situbondo - Selasa, 19 Shofar 1445 
