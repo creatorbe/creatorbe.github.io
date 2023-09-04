@@ -12,11 +12,13 @@ description: "Rangkuman materi Redhat Academy Sibermu Bab 1"
  
 
 **Hai**
+
 Sebelumnya salam kenal, saya Hasan Basri asal situbondo jawatimur, dari prodi informatika sibermu angkatan 5. Bagi kalian yang belum tau apa SiberMu yuk kunjungi <a href="https://sibermu.ac.id/" target="_blank">Kampus Virtual SiberMu</a>.
 
 Teruntuk sesama angkatan salam kompak selalu dan bagi kakak angkatan dan segenap dosen, mohon bimbingannya :pray: Berikut rangkuman dari materi Redhat Academy, sekedar catatan sederhana, semoga bermanfaat dan sengaja tidak saya tulis lengkap khawatir copyright, tapi insyaAllah sudah mencakup inti materi, saran dan kritik membangun saya terima dengan sangat senang hati :love_letter: barakallahufiik.
 
 Sekedar mengingatkan kembali untuk mengikuti Red Hat Academy ini, silahkan mengikuti instruksi sesuai modul pdf panduan yang sudah di share di group whatsapp, kemudian setelah mendaftar dan mendapat rhnid dan email bisa lakukan konfirmasi di link google form dan selamat menunggu email konfirmasi. Setelah mendapat link konfirmasi di email silahkan masuk pakai rhnid dan password yang sebelumnya daftar di Red Hat untuk mempelajari materi. Pertanyaan lebih lanjut terkait Red Hat Academy bisa bergabung di link telegram yang telah di bagikan pak @andisugandi :wave: Jazaakallahu khairan.
+
 
 ![rhnid creatorbe sibermu](https://scontent.cdninstagram.com/v/t51.2885-15/373688183_634335355180805_8635728682921416796_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=f2MsgY_Pu8oAX-NkhYj&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzE4NDAyODEyNDUzNDY0MzQ0MA%3D%3D.2-ccb7-5&oh=00_AfCWr5jn00Q9L4OBxVYcYWPA6p_s12N5JJUgPsX7TSZl9Q&oe=64FA0522&_nc_sid=10d13b)
 
@@ -119,10 +121,13 @@ Linux adalah kernel opensource, kernel adalah program low-level, inti, antar muk
 - Koleksi video Red Hat Academy angkatan sebelumnya <a href="https://gist.github.com/andisugandi/2fa851a915e64080427df742acca1e04" target="_blank">https://gist.github.com/andisugandi/2fa851a915e64080427df742acca1e04</a>
 
 
-اللَّهُ ‌أَعْلَمُ
+اَللّٰهُ أَعْلَم
+
 
 Alhamdulillahi rabbil 'alamin, mungkin sekian dulu catatan kecil ini, insyaAllah kita akan bertemu lagi di sesi berikutnya, barakallahufiik.
 
 _Al-Faqiir ilaa Rahmatillahi Ta'ala_
+<br/>
 :black_nib: Hasan Basri
+<br/>
 :tent: Belakang Pemda Situbondo
