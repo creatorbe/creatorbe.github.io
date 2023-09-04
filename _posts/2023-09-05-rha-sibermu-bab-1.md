@@ -19,9 +19,9 @@ description: "Rangkuman materi Redhat Academy Sibermu Bab 1"
 
 Sebelumnya salam kenal, saya Hasan Basri asal situbondo jawatimur, dari prodi informatika sibermu angkatan 5. Bagi kalian yang belum tau apa SiberMu yuk kunjungi <a href="https://sibermu.ac.id/" target="_blank">Kampus Virtual SiberMu</a>.
 
-Teruntuk sesama angkatan salam kompak selalu dan bagi kakak angkatan dan segenap dosen, mohon bimbingannya :pray: Berikut rangkuman dari materi Redhat Academy, sekedar catatan sederhana, semoga bermanfaat dan sengaja tidak saya tulis lengkap khawatir copyright, tapi insyaAllah sudah mencakup inti materi, saran dan kritik membangun saya terima dengan sangat senang hati <3 barakallahufiik.
+Teruntuk sesama angkatan salam kompak selalu dan bagi kakak angkatan dan segenap dosen, mohon bimbingannya (/|\) Berikut rangkuman dari materi Redhat Academy, sekedar catatan sederhana, semoga bermanfaat dan sengaja tidak saya tulis lengkap khawatir copyright, tapi insyaAllah sudah mencakup inti materi, saran dan kritik membangun saya terima dengan sangat senang hati <3 barakallahufiik.
 
-> Sekedar mengingatkan kembali untuk mengikuti Red Hat Academy ini, silahkan mengikuti instruksi sesuai modul pdf panduan yang sudah di share di group whatsapp, kemudian setelah mendaftar dan mendapat rhnid dan email bisa lakukan konfirmasi di link google form dan selamat menunggu email konfirmasi. Setelah mendapat link konfirmasi di email silahkan masuk pakai rhnid dan password yang sebelumnya daftar di Red Hat untuk mempelajari materi. Pertanyaan lebih lanjut terkait Red Hat Academy bisa bergabung di link telegram yang telah di bagikan pak @andisugandi (/|\) Jazaakallahu khairan.
+> Sekedar mengingatkan kembali untuk mengikuti Red Hat Academy ini, silahkan mengikuti instruksi sesuai modul pdf panduan yang sudah di share di group whatsapp, kemudian setelah mendaftar dan mendapat rhnid dan email bisa lakukan konfirmasi di link google form dan selamat menunggu email konfirmasi. Setelah mendapat link konfirmasi di email silahkan masuk pakai rhnid dan password yang sebelumnya daftar di Red Hat untuk mempelajari materi. Pertanyaan lebih lanjut terkait Red Hat Academy bisa bergabung di link telegram yang telah di bagikan pak @andisugandi.
 
 <br/>
 
