@@ -9,7 +9,9 @@ description: "Rangkuman materi Redhat Academy Sibermu Bab 1"
 بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ
 
 اَلْحَمْدُ للّٰهِ رَبِّ العَالَمِيْنَ والعاقبة للمتقين،
+
  وَالصَّلاَةُ وَالسَّلَامُ عَلىَ إمام الْمُرْسَلِيْنَ،نبيين مُحَمَّدٍ وَعَلَى اٰلِهِ وَصَحْبِهِ اَجْمَعِيْنَ،
+ 
   اَمَّا بَعْدُ.
  
 
@@ -22,7 +24,7 @@ Teruntuk sesama angkatan salam kompak selalu dan bagi kakak angkatan dan segenap
 Sekedar mengingatkan kembali untuk mengikuti Red Hat Academy ini, silahkan mengikuti instruksi sesuai modul pdf panduan yang sudah di share di group whatsapp, kemudian setelah mendaftar dan mendapat rhnid dan email bisa lakukan konfirmasi di link google form dan selamat menunggu email konfirmasi. Setelah mendapat link konfirmasi di email silahkan masuk pakai rhnid dan password yang sebelumnya daftar di Red Hat untuk mempelajari materi. Pertanyaan lebih lanjut terkait Red Hat Academy bisa bergabung di link telegram yang telah di bagikan pak @andisugandi :wave: Jazaakallahu khairan.
 
 <br/>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
 ![rhnid creatorbe sibermu](https://scontent.cdninstagram.com/v/t51.2885-15/373688183_634335355180805_8635728682921416796_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=f2MsgY_Pu8oAX-NkhYj&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzE4NDAyODEyNDUzNDY0MzQ0MA%3D%3D.2-ccb7-5&oh=00_AfCWr5jn00Q9L4OBxVYcYWPA6p_s12N5JJUgPsX7TSZl9Q&oe=64FA0522&_nc_sid=10d13b)
 
 
@@ -130,7 +132,7 @@ Linux adalah kernel opensource, kernel adalah program low-level, inti, antar muk
 Alhamdulillahi rabbil 'alamin, mungkin sekian dulu catatan kecil ini, insyaAllah kita akan bertemu lagi di sesi berikutnya, barakallahufiik.
 
 _Al-Faqiir ilaa Rahmatillahi Ta'ala_
-<br/>
+
 :black_nib: Hasan Basri
-<br/>
+
 :tent: Belakang Pemda Situbondo
