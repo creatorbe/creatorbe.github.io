@@ -136,4 +136,4 @@ _Al-Faqiir ilaa Rahmatillahi Ta'ala_
 
 ✎ Hasan Basri
 
-🞊 Selasa, 19 Shofar 1445 - Belakang pemda situbondo
+🞊 Belakang pemda situbondo - Selasa, 19 Shofar 1445 
