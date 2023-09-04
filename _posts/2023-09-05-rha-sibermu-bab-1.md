@@ -37,7 +37,7 @@ Berikut rangkuman dari materi Redhat Academy, sekedar catatan sederhana, semoga 
 
 ## Linux
 
-Linux adalah kernel opensource, kernel adalah program low-level, inti, antar muka pertama untuk mengelolah perangkat keras dengan mengakses CPU, Memory, disk I/O, networking melalui sistem operasi. Sistem operasi / operating system (OS) sendiri adalah perangkat lunak (software) yang bertugas menangani operasi dasar sistem dan manajemen perangkat keras (hardware), banyak sistem operasi yang sering kita pakai misal Windows, atau di laptop macbook memakai OS MacOS, di iphone memakai OS iOS, atau di smartphone lain memakai OS Android. Linux pertama kali dikembangkan oleh Linus Torvalds pada tahun 1991. Sebenarnya Linux dikembangkan untuk komputer pribadi berarsitektur Intel x86, tetapi seiring waktu Linux telah diportasi ke berbagai arsitektur, bahkan lebih banyak daripada sistem operasi lainnya.
+Linux adalah kernel opensource, kernel adalah core / inti, antar muka pertama untuk mengelolah perangkat keras dengan mengakses CPU, Memory, disk I/O, networking melalui sistem operasi. Sistem operasi / operating system (OS) sendiri adalah perangkat lunak (software) yang bertugas menangani operasi dasar sistem dan manajemen perangkat keras (hardware), banyak sistem operasi yang sering kita pakai misal Windows, atau di laptop macbook memakai OS MacOS, di iphone memakai OS iOS, atau di smartphone lain memakai OS Android. Linux pertama kali dikembangkan oleh Linus Torvalds pada tahun 1991. Sebenarnya Linux dikembangkan untuk komputer pribadi berarsitektur Intel x86, tetapi seiring waktu Linux telah diportasi ke berbagai arsitektur, bahkan lebih banyak daripada sistem operasi lainnya.
 
 ### Kenapa harus belajar Linux?
 
