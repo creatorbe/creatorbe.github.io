@@ -124,6 +124,11 @@ Linux adalah kernel opensource, kernel adalah core / inti, antar muka pertama ya
 - Red Hat Developer Subscription versi gratis dibuat untuk mempermudah seseorang untuk mendapat sumber belajar, informasi, termasuk Developer Subscription sendiri dan produk produk Red Hat lainnya.
 
 
+## Tips
+
+Keseluruhan course berbahasa inggris, dan beberapa bahasa lain selain bahasa indonesia, untuk pengguna browser chrome terbaru bisa klik kanan dan pilih terjemahkan halaman ini, atau bisa juga install addons / aplikasi chrome untuk menerjemahkan halaman atau kata yg dipilih (select/blok) menggunakan <a href="https://chrome.google.com/webstore/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh" target="_blank">ImTranslator</a>. Hanya saja khusus prodi informatika / informasi, bahasa inggris termasuk ilmu alat penting yang dibutuhkan oleh pekerja IT dan mempelajarinya termasuk kebaikan, karena mayoritas dokumentasi teknologi terupdate menggunakan bahasa inggris. Kembali mengingatkan kutipan dari pak @andisugandi **Goal untuk September 2023 ini bukan kebut-kebutan 15 chapters selesai (+ dapat sertifikat ketuntasan), melainkan mendapatkan exam voucher. Syaratnya dapat exam voucher ini harus eligible, syarat eligible: jangan ngebut: cukup 2/3 chapter per 1X login (per hari). Boleh diulang-ulang untuk setiap chapter yg sama (berkali-kali login per hari).**
+
+<br/>
 
 اَللّٰهُ أَعْلَم
 
