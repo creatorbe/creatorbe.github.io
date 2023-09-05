@@ -59,11 +59,11 @@ Linux adalah kernel opensource, kernel adalah core / inti, antar muka pertama ya
 
 ## Opensource Software
 
-- Adalah Perangkat lunak (software) yang source code nya bisa dipelajari, dimodifikasi dan bagikan.
+- Adalah Perangkat lunak (software) yang source code nya bisa dipelajari, dimodifikasi dan dibagikan.
 - Source code adalah kumpulan kode instruksi yang bisa dipahami manusia dan digunakan untuk membuat program.
 - Source code yang telah dibuat memiliki copyright (hak cipta).
 - Pembuat hak cipta memberikan ketentuan terkait perangkat lunak yang dibuat apakah bisa disalin, dimodifikasi, disebarkan, dll.
-- Pengguna perangkat lunak menggunakan sesuai lisensi yang tertera.
+- Pengguna perangkat lunak menggunakannya sesuai lisensi yang tertera.
 - Beberapa perangkat lunak ada yang memiliki lisensi kepemilikan / hak paten (proprietary / closed source) source code nya hanya bisa dilihat, diubah, atau didistribusikan oleh orang, tim, atau organisasi pembuatnya, sedangkan bagi pengguna lain ada keterbatasan dalam mengakses program dan source codenya.
 - Perangkat lunak opensource tetap bisa dijadikan komersial.
 - Vendor opensource seperti Red Hat menawarkan dukungan komersial untuk menerapkan, mengelola, dan memberikan solusi tepat berdasarkan produk opensource.
@@ -123,9 +123,6 @@ Linux adalah kernel opensource, kernel adalah core / inti, antar muka pertama ya
 - Red Hat Enterprise Linux (RHEL) adalah produk opensource yang enterprise-ready dengan dukungan berbayar yang ditawarkan oleh perusahaan Red Hat, 
 - Red Hat Developer Subscription versi gratis dibuat untuk mempermudah seseorang untuk mendapat sumber belajar, informasi, termasuk Developer Subscription sendiri dan produk produk Red Hat lainnya.
 
-## Informasi Terkait
-
-- Koleksi video Red Hat Academy angkatan sebelumnya <a href="https://gist.github.com/andisugandi/2fa851a915e64080427df742acca1e04" target="_blank">https://gist.github.com/andisugandi/2fa851a915e64080427df742acca1e04</a>
 
 
 اَللّٰهُ أَعْلَم
