@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redhat Academy (RHA) Sibermu - Bab 1"
+title: "Red Hat Academy (RHA) Sibermu - Bab 1"
 date: 2023-09-05 00:45:05 +0700
 categories: [kuliah,sibermu,linux,rha]
 description: "Rangkuman materi Redhat Academy Sibermu Bab 1"
@@ -126,7 +126,9 @@ Linux adalah kernel opensource, kernel adalah core / inti, antar muka pertama ya
 
 ## Tips
 
-Keseluruhan course berbahasa inggris, dan beberapa bahasa lain selain bahasa indonesia, untuk pengguna browser chrome terbaru bisa klik kanan dan pilih terjemahkan halaman ini, atau bisa juga install addons / aplikasi chrome untuk menerjemahkan halaman atau kata yg dipilih (select/blok) menggunakan <a href="https://chrome.google.com/webstore/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh" target="_blank">ImTranslator</a>. Hanya saja khusus prodi informatika / informasi, bahasa inggris termasuk ilmu alat penting yang dibutuhkan oleh pekerja IT dan mempelajarinya termasuk kebaikan, karena mayoritas dokumentasi teknologi terupdate menggunakan bahasa inggris. Kembali mengingatkan kutipan dari pak @andisugandi **Goal untuk September 2023 ini bukan kebut-kebutan 15 chapters selesai (+ dapat sertifikat ketuntasan), melainkan mendapatkan exam voucher. Syaratnya dapat exam voucher ini harus eligible, syarat eligible: jangan ngebut: cukup 2/3 chapter per 1X login (per hari). Boleh diulang-ulang untuk setiap chapter yg sama (berkali-kali login per hari).**
+- Keseluruhan course berbahasa inggris, dan beberapa bahasa lain selain bahasa indonesia, untuk pengguna browser chrome terbaru bisa klik kanan dan pilih terjemahkan halaman ini, atau bisa juga install addons / aplikasi chrome untuk menerjemahkan halaman atau kata yg dipilih (select/blok) menggunakan <a href="https://chrome.google.com/webstore/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh" target="_blank">ImTranslator</a>. Saya rekomendasikan ImTranslator karena memakai beberapa provider translator, Google, Bing, Yandex dan untuk hasil translate lebih manusiawi lagi (human readable) bisa memakai chatGPT atau addons yang memakai chatGPT seperti <a href="https://chrome.google.com/webstore/detail/maxaime-use-chatgpt-ai-an/mhnlakgilnojmhinhkckjpncpbhabphi">MaxAI.me</a>.
+- Teruntuk prodi informatika / informasi, bahasa inggris termasuk ilmu alat penting yang dibutuhkan oleh pekerja IT dan mempelajarinya termasuk nilai tersendiri, karena mayoritas dokumentasi teknologi terupdate menggunakan bahasa inggris. Sebagaimana jika alat sudah lengkap maka pekerjaan lebih efisien lagi untuk dikerjakan. (Tentunya tetap semua kemudahan datangnya dari Allah, adapun keahlian hanya salah satu usaha untuk menggapai kemudahan dari Allah).
+- Kembali mengingatkan kutipan dari pak @andisugandi **Goal untuk September 2023 ini bukan kebut-kebutan 15 chapters selesai (+ dapat sertifikat ketuntasan), melainkan mendapatkan exam voucher. Syaratnya dapat exam voucher ini harus eligible, syarat eligible: jangan ngebut: maksimal 2/3 chapter per 1X login (per hari). Boleh diulang-ulang untuk setiap chapter yg sama (berkali-kali login per hari).**
 
 <br/>
 
