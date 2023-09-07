@@ -23,11 +23,12 @@ Teruntuk sesama angkatan salam kompak selalu dan bagi kakak angkatan dan segenap
 Berikut rangkuman dari materi Redhat Academy, sekedar catatan sederhana, semoga bermanfaat dan sengaja tidak saya tulis lengkap khawatir copyright, tapi insyaAllah sudah mencakup inti materi, saran dan kritik membangun saya terima dengan sangat senang hati <3 barakallahufiik.
 
 >
-> Sekedar mengingatkan kembali untuk mengikuti Red Hat Academy ini, silahkan mengikuti instruksi sesuai modul pdf panduan yang sudah di share di group whatsapp, kemudian setelah mendaftar dan mendapat rhnid dan email bisa lakukan konfirmasi di link google form dan selamat menunggu email konfirmasi. Setelah mendapat link konfirmasi di email silahkan masuk pakai rhnid dan password yang sebelumnya daftar di Red Hat untuk mempelajari materi. Pertanyaan lebih lanjut terkait Red Hat Academy bisa bergabung di link telegram yang telah di bagikan pak @andisugandi.
+> Sekedar mengingatkan kembali untuk mengikuti Red Hat Academy ini, silahkan mengikuti instruksi sesuai modul pdf panduan yang sudah di share di group whatsapp, kemudian setelah mendaftar dan mendapat rhnid dan email bisa lakukan konfirmasi di link google form dan selamat menunggu email konfirmasi. Setelah mendapat link konfirmasi di email silahkan masuk pakai rhnid dan password yang sebelumnya daftar di Red Hat untuk mempelajari materi. Untuk panduan lebih jelas bisa simak video mengenai <a href="https://www.youtube.com/watch?v=FVqBI0LwyRU">RHCSA : Tutorial Membuat Red Hat Network Id dan Login Red Hat Academy</a>. Pertanyaan lebih lanjut terkait Red Hat Academy bisa bergabung di link telegram yang telah di bagikan pak @andisugandi.
 
 <br/>
 
 ![rhnid creatorbe sibermu](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74e7fdf0-fd9e-4120-bd18-2ad731fd8f51/dg7wfuq-f108a7b0-531d-4e91-ae00-f308d9b6db46.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0ZTdmZGYwLWZkOWUtNDEyMC1iZDE4LTJhZDczMWZkOGY1MVwvZGc3d2Z1cS1mMTA4YTdiMC01MzFkLTRlOTEtYWUwMC1mMzA4ZDliNmRiNDYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dQ9PG_EdOqvF0Chp4vALuvgd3BpqNuD72Fi1kKBZWQ4)
+
 
 
 # *Bab 1. Memulai Red Hat Enterprise Linux*
