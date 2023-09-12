@@ -20,12 +20,12 @@ collections:
     permalink: /category/:path/
 
 social:
-    - icon: fa-phone
-      link: "tel:+6289619060672"
+    - icon: fa-whatsapp
+      link: "https://wa.me/6285156081434"
     - icon: fa-envelope
       link: "mailto:creatorb45@gmail.com"
-    - icon: fa-facebook
-      link: "http://facebook.com/creatorbe"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/creatorbe"
     - icon: fa-twitter
       link: "http://twitter.com/creatorbe"
     - icon: fa-github
