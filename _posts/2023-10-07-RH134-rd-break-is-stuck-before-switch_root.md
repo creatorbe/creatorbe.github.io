@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solved rd.break is stuck at Warning: Break before switch_root - Red Hat Academy 134 Chapter 10"
+title: "Solved rd.break is stuck at Warning: Break before switch_root - RHA134"
 date: 2023-10-07 22:35:05 +0700
 categories: [kuliah,sibermu,linux,rha]
 description: "Sedikit pembahasan menarik dari course RHA 134 Chapter 10, rd.break issues"
