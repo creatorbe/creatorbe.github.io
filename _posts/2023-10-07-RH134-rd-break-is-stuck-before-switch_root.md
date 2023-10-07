@@ -11,9 +11,9 @@ description: "Sedikit pembahasan menarik dari course RHA 134 Chapter 10, rd.brea
 اَلْحَمْدُ للّٰهِ رَبِّ العَالَمِيْنَ والعاقبة للمتقين
 
  وَالصَّلاَةُ وَالسَّلَامُ عَلىَ إمام الْمُرْسَلِيْنَ،نبيين مُحَمَّدٍ وَعَلَى اٰلِهِ وَصَحْبِهِ اَجْمَعِيْنَ
- 
+
   اَمَّا بَعْدُ
- 
+
 
 # JUDUL
 
@@ -33,23 +33,23 @@ Kata Kunci : Sibermu, Linux, Red Hat, RHA134 Chapter 10, Control The Boot Proces
 
 Di Lab RHA134 Chapter 10, peserta diminta untuk mereset root password, memperbaiki beberapa konfigurasi boot dan menetapkan default target boot ke mode graphical.
 
-Setelah memulai lab dan masuk pada serverb melalui console di Lab Environment, akan mendapati issue pada file-system yang harus diselesaikan dan pertama-pertama harus merubah password user root terlebih dahulu. Hanya saja di materi sebelumnya menggunakan `rd.break` yang dipasang di akhir baris linux yang ada pada boot loader (dengan menekan huruf keyboard `e` pada menu list boot untuk edit, menu ini ada setelah restart / awal booting), namun ketika menggunakan `rd.break` saya tidak bisa masuk ke prompt `switch_root` yang diharapkan dari sana mengubah password user root ke redhat. Alih-alih masuk kesana, melainkan terlempar ke mode emergency yang passwordnya memang perlu direset da jika diperhatikan list log diatasnya, sebelum masuk mode emergency, didapati error `rd.break is stuck at Warning: Break before switch_root`.
+Setelah memulai lab dan masuk pada serverb melalui console di Lab Environment, akan mendapati issue pada file-system yang harus diselesaikan dan pertama-pertama harus merubah password user root terlebih dahulu. Hanya saja di materi sebelumnya menggunakan `rd.break` yang dipasang di akhir baris linux yang ada pada boot loader (dengan menekan huruf keyboard `e` pada menu list boot untuk edit, menu ini ada setelah restart / awal booting), namun ketika menggunakan `rd.break` saya tidak bisa masuk ke prompt `switch_root` yang diharapkan dari sana mengubah password user root ke redhat. Alih-alih masuk kesana, melainkan terlempar ke mode emergency yang passwordnya memang perlu direset dan jika diperhatikan list log diatasnya, sebelum masuk mode emergency, didapati error `rd.break is stuck at Warning: Break before switch_root`.
 
 Setelah beberapa waktu mencoba tetap gagal untuk masuk ke switch_root menggunakan rd.break, akhirnya diputuskan untuk masuk tanpa menggunakan `rd.break`, melainkan `init=/bin/bash` dengan tahapan sebagai berikut :
 
 1. Edit boot-loader entry (pembahasannya telah disampaikan di materi sebelum tugas lab).
 
-2. Pembahasan yang disampaikan sebelumnya dengan menambahkan `rd.break` diakhir baris kata `linux` dan itu sudah dicoba dan gagal / tidak bekerja, maka ganti dengan menambahkan `init=/bin/bash` diakhir baris kata juga hapus `'console=tty0' & 'console=ttyS0,115200n8'`.
+2. Pembahasan yang disampaikan sebelumnya dengan menambahkan `rd.break` diakhir baris kata `linux` dan itu sudah dicoba dan gagal / tidak bekerja, maka ganti dengan menambahkan `init=/bin/bash` diakhir baris kata, tidak hanya itu hapus juga `'console=tty0' & 'console=ttyS0,115200n8'`.
 
 3. Kemudian `Ctrl + x` untuk booting dengan konfigurasi yang telah diperbaharui dilangkah nomor 2 diatas.
 
 4. Maka akan masuk ke kernel commandline, dan secara default file sistem root dalam keadaan mount dan read-only maka remount untuk menjadikannya read-write, menggunakan perintah `mount -o remount,rw /`
 
-5. Dishell yang sedang aktif sekarang ini bisa digunakan untuk reset password dan mengatasi permasalahan yang ada dalam tugas lab, untuk reset password, menggunakan perintah `passwd` dan ganti passwordnya ke `redhat` (sesuai soal dalam tugas lab ini).
+5. Di shell yang sedang aktif sekarang ini bisa digunakan untuk reset password dan mengatasi permasalahan yang ada dalam tugas lab, untuk reset password, menggunakan perintah `passwd` dan ganti passwordnya ke `redhat` (sesuai soal dalam tugas lab ini).
 
-6. Setelah password berhasil diperbaharui, bisa Keluar dari shell dengan perintah `exec /sbin/init` atau `reboot`. Dalam posisi ini password telah berhasil diatur ulang.
+6. Setelah password berhasil diperbaharui, bisa keluar dari shell dengan perintah `exec /sbin/init` atau `reboot`. Dalam posisi ini password telah berhasil diatur ulang.
 
-Demikian beberapa tahapan yang bisa dilakukan untuk reset password yang sebelumnya terkendala ketika menggunakan `rd.break`, berhasil disiasati dengan masuk melalui alternatif shell. Selanjutnya silahkan mengerjakan tugas lab nya sesuai materi yang sebelumnya disampaikan.
+Demikian beberapa tahapan yang bisa dilakukan untuk berhasil reset password yang sebelumnya terkendala ketika menggunakan `rd.break`, disiasati dengan masuk melalui alternatif shell `init=/bin/bash`. Selanjutnya silahkan kembali mengerjakan tugas lab nya sesuai materi yang sebelumnya disampaikan.
 
 
 # PENUTUP
@@ -58,9 +58,11 @@ Dari beberapa referensi yang dihimpun, maka disimpulkan Opsi kernel `rd.break` d
 
 1. **rd.break:** Opsi ini menghentikan proses booting dan memberikan akses ke emergency shell, sebelum sistem beralih ke sistem file root yang sebenarnya. Ketika menggunakan `rd.break`, sistem initial RAM disk (initramfs) awalnya terpasang / mount sebagai inisialisasi dari sistem file root, dalam posisi ini bisa menggunakan `mount` untuk mengakses sistem file root yang sebenarnya. Ini berguna untuk memperbaiki masalah booting yang terkait dengan initramfs, termasuk reset password.
 
-2. **init=/bin/bash:** Opsi ini secara langsung menetapkan bahwa shell `/bin/bash` dieksekusi sebagai proses init dari sistem, sehingga membuatnya menjadi proses root. Ini menggantikan proses init standar karena menjalankan shell secara langsung. Dengan cara ini langsung masuk menuju sistem file root yang sebenarnya tanpa melalui initramfs. Ini juga masuk dalam kategori mode emergency shell, untuk pemulihan ketika sistem tidak dapat booting normal.
+2. **init=/bin/bash:** Opsi ini secara langsung menetapkan bahwa shell `/bin/bash` dieksekusi sebagai proses init dari sistem, sehingga membuatnya menjadi proses root. Ini menggantikan proses init standar karena menjalankan shell secara langsung. Dengan cara ini bisa langsung masuk menuju sistem file root yang sebenarnya tanpa melalui initramfs. Ini juga masuk dalam kategori mode emergency shell, untuk pemulihan ketika sistem tidak dapat booting normal.
 
-Seperti yang telah dialami, `rd.break` tidak berfungsi seperti yang diharapkan, kesimpulannya bisa jadi karena konfigurasi tertentu atau masalah dengan initramfs, Penggunaan `init=/bin/bash` yang mem bypass initramfs, sangat bermanfaat ketika `rd.break` tidak berfungsi seperti kasus ini. Hanya saja penggunaan `init=/bin/bash` harus dilakukan dengan hati-hati karena seperti data yang telah dikumpulkan proses ini tidak melalui langkah inisialisasi dan konfigurasi yang terjadi selama proses booting, tidak seperti dengan apa yang dilakukan `rd.break`.
+Seperti yang telah dialami, `rd.break` tidak berfungsi seperti yang diharapkan, kesimpulannya bisa jadi karena konfigurasi tertentu atau masalah dengan initramfs, Penggunaan `init=/bin/bash` yang mem bypass initramfs, sangat bermanfaat ketika `rd.break` tidak berfungsi seperti kasus ini. Hanya saja penggunaan `init=/bin/bash` harus dilakukan dengan hati-hati karena proses ini tidak melalui langkah inisialisasi dan konfigurasi yang terjadi selama proses booting, tidak seperti dengan apa yang dilakukan `rd.break`.
+
+Demikian, semoga yang sedikit ini bisa memberi banyak manfaat.
 
 <br/>
 
@@ -73,4 +75,4 @@ _Al-Faqiir ilaa Rahmatillahi Ta'ala_
 
 ✎ Hasan Basri
 
-◉ Belakang pemda situbondo - Sabtu (malam Ahad), 21 Rabi'ul Awwal 1445 
+◉ Belakang pemda situbondo - Sabtu (malam Ahad), 21 Rabi'ul Awwal 1445
