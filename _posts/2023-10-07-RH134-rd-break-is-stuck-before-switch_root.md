@@ -15,12 +15,12 @@ description: "Sedikit pembahasan menarik dari course RHA 134 Chapter 10, rd.brea
   اَمَّا بَعْدُ
 
 
-## JUDUL
+### JUDUL
 
 Mengatasi permasalahan rd.break di RHA 134 Chapter 10 - Controlling The Boot Process
 
 
-## ABSTRAK
+### ABSTRAK
 
 Pembahasan ini ditulis untuk membantu siapa saja (terlebih mahasiswa <a href="https://sibermu.ac.id" target="_blank">Sibermu</a>) yang mengalami permasalahan yang sama di course RHA134 Chapter 10, yang perlu di garis bawahi saya (penulis) tidak menggunakan fitur / tombol Show Solution (lihat solusi / jawaban) dari course yang dimaksud, bisa jadi apa yang saya tulis disini sama dengan solusi yang ada di balik fitur tersebut. Lalu kenapa saya menulis ini? karena saya merasa materi tutorial / course yang diberikan sebelumnya tidak menyertakan alternatif yang telah saya lakukan untuk menyelesaikan chapter ini, sementara ini saya belum tau pasti ini adalah bug atau memang penyedia course menginginkan peserta mencari dari referensi lain untuk menyelesaikan tugas lab di chapter 10 ini, atau memang bisa jadi hanya lab saya yang bermasalah, karena tidak seperti sebelumnya di RHA124 dan RHA134 chapter sebelumnya, tugas lab yang diberikan sesuai dengan materi yang disampaikan.
 
@@ -29,7 +29,7 @@ Kemudian beberapa solusi dan referensi yang telah dikumpulkan disajikan disini d
 Kata Kunci : Sibermu, Linux, Red Hat, RHA134 Chapter 10, Control The Boot Process, RHEL 9.0 Plow, Atur Ulang Kata Sandi RHEL, Diagnosa dan Perbaikan Boot, rd.break, init=/bin/bash
 
 
-## ISI
+### ISI
 
 Di Lab RHA134 Chapter 10, peserta diminta untuk mereset root password, memperbaiki beberapa konfigurasi boot dan menetapkan default target boot ke mode graphical.
 
@@ -52,7 +52,7 @@ Setelah beberapa waktu mencoba tetap gagal untuk masuk ke switch_root menggunaka
 Demikian beberapa tahapan yang bisa dilakukan untuk berhasil reset password yang sebelumnya terkendala ketika menggunakan `rd.break`, disiasati dengan masuk melalui alternatif shell `init=/bin/bash`. Selanjutnya silahkan kembali mengerjakan tugas lab nya sesuai materi yang sebelumnya disampaikan.
 
 
-## PENUTUP
+### PENUTUP
 
 Dari beberapa referensi yang dihimpun, maka disimpulkan Opsi kernel `rd.break` dan `init=/bin/bash` memiliki tujuan sama dan berbeda dalam cara kerjanya:
 
