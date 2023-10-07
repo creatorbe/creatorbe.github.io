@@ -26,7 +26,7 @@ Pembahasan ini ditulis untuk membantu siapa saja (terlebih mahasiswa <a href="ht
 
 Kemudian beberapa solusi dan referensi yang telah dikumpulkan disajikan disini dalam bentuk tahapan yang bisa diikuti / praktekkan dan diakhiri dengan kesimpulan. Versi Red Hat Enterprise Linux yang dipakai di lab ini ialah RHEL 9.0 plow, tidak menuntut kemungkinan jika terjadi permasalahan sebenarnya (real) yang sama diluar sana juga bisa mengikuti apa yang dijelaskan dipembahasan ini.
 
-Kata Kunci : Sibermu, Linux, Red Hat, RHA134 Chapter 10, Control The Boot Process, RHEL 9.0 Plow, Atur Ulang Kata Sandi RHEL, Diagnosa dan Perbaikan Boot, Atur default target systemd, rd.break
+Kata Kunci : Sibermu, Linux, Red Hat, RHA134 Chapter 10, Control The Boot Process, RHEL 9.0 Plow, Atur Ulang Kata Sandi RHEL, Diagnosa dan Perbaikan Boot, rd.break, init=/bin/bash
 
 
 ## ISI
