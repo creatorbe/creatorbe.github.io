@@ -62,7 +62,6 @@ Dari beberapa referensi yang dihimpun, maka disimpulkan Opsi kernel `rd.break` d
 
 Seperti yang telah dialami, `rd.break` tidak berfungsi seperti yang diharapkan, kesimpulannya bisa jadi karena konfigurasi tertentu atau masalah dengan initramfs, Penggunaan `init=/bin/bash` yang mem bypass initramfs, sangat bermanfaat ketika `rd.break` tidak berfungsi seperti kasus ini. Hanya saja penggunaan `init=/bin/bash` harus dilakukan dengan hati-hati karena proses ini tidak melalui langkah inisialisasi dan konfigurasi yang terjadi selama proses booting, tidak seperti dengan apa yang dilakukan `rd.break`.
 
-Demikian, semoga yang sedikit ini bisa memberi banyak manfaat.
 
 <br/>
 
