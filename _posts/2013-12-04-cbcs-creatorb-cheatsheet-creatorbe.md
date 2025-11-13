@@ -11,6 +11,8 @@ CBCS (creatorbe cheatsheet) a way to make my life easier.
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
 [![Waffle.io](https://img.shields.io/badge/Helpful_%3F-A_lot-ff69b4.svg?style=flat)]()
 
+### [Arabic](#arabic) : Meaningful words
+
 ### [List](#list)
 - [GitHub Markdown](#github-markdown)
 	- [Blockquotes](#blockquotes)
@@ -27,6 +29,55 @@ CBCS (creatorbe cheatsheet) a way to make my life easier.
 	- [Text](#text)
 	- [Youtube Videos](#youtube-videos)
 
+## Arabic
+
+بسم الله الرحمن الرحيم
+
+﷽
+
+ﷲ‎ ﷻ‎
+
+ﷴ ﷺ‎
+
+ألسلام عليكم ورحمة الله وبركاته
+
+وعليكم السلام ورحمة الله وبركاته
+
+جزاكم الله خيرا
+
+ أحسن الله إليكم
+
+بخير والحمد لله ... لعلك كَذَٰلِكَ
+
+وأنتم فجزاكم الله خيرا
+
+وَفِيْك بَارَكَ اللهُ
+
+وَالله يبارك فيكم
+
+آمِين وَأَنْتَ كَذَلِك
+
+آمِين زادنا الله علما وحرص
+
+مَاشَآءَاللّهُ تَبَارَكَ اللهُ  نِعْمَ أَنْت
+
+بَارَكَ اللهُ فِيْكُم
+
+ين
+
+ﻧﺴﺄﻝ ﺍﻟﻠﻪ ﺍﻟﺴﻼﻣﺔ ﻭﺍﻟﻌﺎﻓﻴﺔ
+
+إن شاء الله
+
+ماشاء الله تبارك الله
+
+عَفْوًا
+
+الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ
+
+الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ
+
+More details : [Wiki Arabic Script Unicode](https://en.wikipedia.org/wiki/Arabic_script_in_Unicode)
 
 ## GitHub Markdown
 
