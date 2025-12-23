@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Portfolio site with Next.js and Vercel"
-date: 2025-10-09 23:00:13 +0700
+date: 2025-12-23 22:10:00 +0700
 categories: [programming]
 description: "A step-by-step guide to creating a clean portfolio website"
 ---
