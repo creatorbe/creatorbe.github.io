@@ -1,9 +1,9 @@
 title: creatorbe links
 subtitle: A way to convert something into a readable string
-description: Hasan Basri aka creatorb [creatorbe], Linux enthusiasts who wrote about Programming and Islam.
+description: Hasan B | Fullstack Dev & IT Generalist
 author: creatorbe
-github: https://github.com/creatorbe
-about: Fullstack Programmer
+github: https://github.com/CreatorB
+about: Fullstack Dev & IT Generalist
 disqus_shortname: creatorbe
 google_analytics: UA-96556810-1
 avatar_url: /static/img/avatar.jpg
@@ -29,7 +29,7 @@ social:
     - icon: fa-twitter
       link: "http://twitter.com/creatorbe"
     - icon: fa-github
-      link: "https://github.com/creatorb"
+      link: "https://github.com/CreatorB"
 
 share:
   twitter_username: creatorbe
