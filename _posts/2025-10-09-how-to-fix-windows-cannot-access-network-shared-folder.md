@@ -51,7 +51,7 @@ In this guide, I’ll walk you through **both manual and automatic solutions** t
 
 ---
 
-## 🔍 Why This Happens
+## Why This Happens
 
 Microsoft has hardened Windows security over the years, and by default, **Windows blocks insecure SMB connections**, such as:
 
@@ -63,11 +63,11 @@ While this improves security, it often **breaks access to local network shares**
 
 ---
 
-## ✅ Solution 1: Manual Fix (Step-by-Step)
+## Solution 1: Manual Fix (Step-by-Step)
 
 Follow these steps carefully to re-enable access to shared folders.
 
-### 🔧 1. Reset Winsock & TCP/IP Stack
+### 1. Reset Winsock & TCP/IP Stack
 
 This clears any corrupted network configurations.
 
@@ -81,11 +81,11 @@ ipconfig /renew
 ipconfig /flushdns
 ```
 
-> ✅ **Restart your computer** after running these commands.
+> **Restart your computer** after running these commands.
 
 ---
 
-### 🔧 2. Re-enable SMB 1.0/CIFS Client
+### 2. Re-enable SMB 1.0/CIFS Client
 
 Even if it’s already checked, re-enable it to ensure it’s properly loaded.
 
@@ -99,7 +99,7 @@ Even if it’s already checked, re-enable it to ensure it’s properly loaded.
 
 ---
 
-### 🔧 3. Disable SMB Security Signing (PowerShell)
+### 3. Disable SMB Security Signing (PowerShell)
 
 Force Windows to allow insecure (but functional) SMB connections.
 
@@ -115,11 +115,11 @@ Verify the change:
 Get-SmbClientConfiguration | Select RequireSecuritySignature, EnableSecuritySignature
 ```
 
-> ✅ Both values should be `False`.
+> Both values should be `False`.
 
 ---
 
-### 🔧 4. Allow Insecure Guest Access (Registry)
+### 4. Allow Insecure Guest Access (Registry)
 
 This is often the **missing piece** — Windows blocks guest logons by default.
 
@@ -137,7 +137,7 @@ This is often the **missing piece** — Windows blocks guest logons by default.
 
 ---
 
-### 🔧 5. Try Accessing the Share
+### 5. Try Accessing the Share
 
 Now try accessing the shared folder:
 
@@ -155,7 +155,7 @@ Replace `Data` with your actual shared folder name.
 
 ---
 
-### 🔧 6. Update Network Driver
+### 6. Update Network Driver
 
 Outdated or corrupted network drivers can block SMB.
 
@@ -168,7 +168,7 @@ If no update found, try **uninstalling** the driver and restarting — Windows w
 
 ---
 
-### 🔧 7. Use Ethernet Instead of Wi-Fi
+### 7. Use Ethernet Instead of Wi-Fi
 
 Wi-Fi power-saving or security settings can interfere with SMB.
 
@@ -176,11 +176,11 @@ Wi-Fi power-saving or security settings can interfere with SMB.
 
 ---
 
-## 🚀 Solution 2: Automatic Fix (fix-smb.bat)
+## Solution 2: Automatic Fix (fix-smb.bat)
 
 If the manual steps are too time-consuming, use this **automated batch script** to apply all fixes at once.
 
-### ✅ `fix-smb.bat` – One-Click SMB Repair
+### `fix-smb.bat` – One-Click SMB Repair
 
 Create a file named `fix-smb.bat` with the following content:
 
@@ -209,7 +209,7 @@ echo.
 pause
 ```
 
-### 🔧 How to Use:
+### How to Use:
 
 1. Save as `fix-smb.bat`
 2. Right-click → **Run as administrator**
@@ -220,7 +220,7 @@ pause
 
 ---
 
-## 🛑 Security Note
+## Security Note
 
 These fixes **reduce security** for the sake of compatibility. Only use them in **trusted networks** (home, office LAN). Avoid using them on public Wi-Fi or untrusted environments.
 
@@ -244,7 +244,24 @@ To restore default security later:
 
 ---
 
-## 🙌 Final Thoughts
+## Troubleshot
+
+If every PC can't access your SMB server, try to disable Private Network on Firewall and Network Connection, you can also monitoring the current access with Powershell :
+
+```
+while ($true) {
+    Clear-Host
+    Write-Host "=== SMB Sessions ===" -ForegroundColor Yellow
+    Get-SmbSession
+    Write-Host "`n=== Open Files ===" -ForegroundColor Yellow
+    Get-SmbOpenFile
+    Start-Sleep -Seconds 5
+}
+```
+
+---
+
+## Final Thoughts
 
 If other computers can access the shared folder but yours can’t — **it’s not the server’s fault**. The issue is almost always on the **Windows client side** due to tightened security policies.
 
@@ -252,7 +269,7 @@ With this guide and the `fix-smb.bat` script, you now have a **complete toolkit*
 
 ---
 
-> 🌐 **Want this script handy?**  
+> **Want this script handy?**  
 > Save `fix-smb.bat` on a USB drive for quick fixes on any Windows machine!
 
 Have questions or a different error? Let me know in the comments! Thank you, yassarallahulakum.
