@@ -392,6 +392,7 @@ Open Terminal and type:
 
 3. **Install AdGuard**:
 Copy-paste this script into Terminal:
+
 ```bash
 # Network Interface for Container
 /interface veth add name=veth-adguard address=192.168.50.100/24 gateway=192.168.50.1
@@ -405,7 +406,6 @@ Copy-paste this script into Terminal:
 /container start [find tag~"adguard"]
 
 ```
-
 
 4. **Setup Wizard**:
 * Open your browser: `http://192.168.50.100:3000`
