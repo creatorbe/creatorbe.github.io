@@ -466,17 +466,16 @@ Access your home network from anywhere in the world. (check my youtube video abo
 
 1. **Create Account**: Go to [ZeroTier.com](https://zerotier.com) and create a Network. Copy the **Network ID**.
 2. **Mikrotik Setup**:
+
 ```bash
 /zerotier set zt1 disabled=no
 /zerotier interface add name=zerotier1 instance=zt1 network=<PASTE_YOUR_NETWORK_ID_HERE> allow-managed=yes allow-global=yes
 ```
 
-
 3. **Authorize**:
 * Go back to ZeroTier website.
 * Scroll to "Members". You will see your Mikrotik router.
 * Check the box **"Auth"**.
-
 
 4. **Firewall Rules**:
 (Already included in the Mikrotik Config above, specifically the "Allow ZeroTier" rules).
