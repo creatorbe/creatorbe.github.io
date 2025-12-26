@@ -404,7 +404,6 @@ Copy-paste this script into Terminal:
 # Download & Start AdGuard
 /container add remote-image=adguard/adguardhome:latest interface=veth-adguard root-dir=usb1/adguard logging=yes
 /container start [find tag~"adguard"]
-
 ```
 
 4. **Setup Wizard**:
@@ -470,7 +469,6 @@ Access your home network from anywhere in the world. (check my youtube video abo
 ```bash
 /zerotier set zt1 disabled=no
 /zerotier interface add name=zerotier1 instance=zt1 network=<PASTE_YOUR_NETWORK_ID_HERE> allow-managed=yes allow-global=yes
-
 ```
 
 
