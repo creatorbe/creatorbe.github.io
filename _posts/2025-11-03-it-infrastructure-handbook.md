@@ -417,13 +417,17 @@ Copy-paste this script into Terminal:
 You can also manual install on PC or Raspberry Pi (the cheap one is Pi Zero 2W) by download the AdGuardHome software on [github.com/AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
 
 **Installation Steps:**
+
 1. Download the AMD64 version (for me win11 64bit)
 2. Extract to the C: drive root directory
 3. Open Command Prompt as Administrator and navigate to the directory:
+
    ```
    cd c:\AdGuardHome
    ```
+   
 4. Install and start the service:
+
    ```
    AdGuardHome.exe -s install
    AdGuardHome.exe -s start
