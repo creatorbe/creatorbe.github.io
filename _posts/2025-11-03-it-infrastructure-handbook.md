@@ -39,7 +39,7 @@ description: "Comprehensive guide for MikroTik, UniFi, ZeroTier, TP-Link & AdGua
 
 **Theological Consistency** Because we know this difference, it is fundamentally unjust to inconsistently shift theological stances based on convenience. One should not adopt a deterministic mindset (Jabriyyah) only when sinning—claiming it is inescapable fate—while adopting a free-will mindset (Qadariyyah) when performing good deeds—claiming full personal credit for their obedience.
 
-ﻧﺴﺄﻝ ﺍﻟﻠﻪ ﺍﻟﺴﻼﻣﺔ ﻭﺍﻟﻌﺎﻓﻴﺔ
+اللَّهُمَّ أَرِنَا الْحَقَّ حَقًّا، وَارْزُقْنَا اتِّبَاعَهُ. ،وَأَرِنَا الْبَاطِلَ بَاطِلاً، وَارْزُقْنَا اجْتِنَابَهُ
 
 ---
 
@@ -49,7 +49,7 @@ This guide is designed to be followed from top to bottom. It transforms a fresh 
 
 ## 1. Hardware & Safety (Anti-Lightning)
 
-[![YouTube Demo](https://res.cloudinary.com/creatorbe/image/upload/creatorbe.github.io-fullstack-it-20251103-it-infrastructure-handbook_wtsolt.png)](#)
+[![YouTube Demo](https://res.cloudinary.com/creatorbe/image/upload/creatorbe.github.io-fullstack-it-20251103-it-infrastructure-handbook_wtsolt.png)](https://youtu.be/5wLF5VXhg7c)
 
 Before configuring software, we must secure the hardware. Since I live in a lightning-prone area, I use **Optical Isolation and Barrel Connector** to protect the router.
 
